@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTSTART:20260913T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:9f9dba5c-1a3e-496d-a968-0e97ce687fab@9f9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTSTART:20260913T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:ce77a191-7c25-4cc6-a482-2a7d08ac16f3@ce77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
 DTSTART:20260920T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:8014e181-a15a-4fe7-93ae-4bd96a5d80d1@8014.org
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:64e76dc4-fe8f-4782-b57d-485a9439c85a@64e7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
 DTSTART:20260920T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:76cdc831-042f-4034-b938-0fb4b20a6813@76cd.org
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:3d5bee1b-490c-4b00-8bee-d4962f12fe35@3d5b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTSTART:20260920T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:f61e802d-69a5-4403-8cdb-11f98339a9f6@f61e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260913T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:a884a765-a063-4948-aec4-0659b9532161@a884.org
+SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:59d5e9ed-7c49-4796-b867-aea9bf24be69@59d5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTSTART:20260920T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:1d4cf532-6bb9-4989-a145-1ab3d83cf07b@1d4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
 DTSTART:20260913T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:03141db1-e4d8-488c-a0db-af4310e20cd4@0314.org
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:9742b31d-929e-4c58-b0dd-b3fe2f2bb753@9742.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260920T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:6551418b-12d3-4dae-b6cc-c1a0da3480fd@6551.org
+SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:2068f13f-202b-43f3-b0be-0d41d34bf240@2068.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260920T230000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:eb3d4ffb-bb8f-4a6d-919f-15f0b5fece5c@eb3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTSTART:20260913T230000Z
-SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:3246faf6-e2eb-4596-98fe-6a89666a9952@3246.org
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:ad4a6512-4f07-4b02-98a1-17dad02bab91@ad4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ALGORITMOS Y PSEUDOCÓDIGOS\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTSTART:20260920T230000Z
+SUMMARY:[ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:509174b6-7dc9-44e2-af62-3fddaeffb64c@5091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260913T230000Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:f4be0289-638e-47ef-829a-1f6bb9b75339@f4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ALGORITMOS Y PSEUDOCÓDIGOS\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTSTART:20260913T230000Z
+SUMMARY:[ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:85e6ec1e-0dac-4d20-99c1-eab72724b422@85e6.org
 END:VEVENT
 END:VCALENDAR

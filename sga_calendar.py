@@ -26,11 +26,10 @@ MESES_ES = {
     "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12
 }
 
-# Palabras que deben ignorarse al buscar el nombre de la asignatura
 PALABRAS_IGNORAR = [
     "compañeros", "profesor", "profesores", "asistencia", "silabo", "sílabo",
     "actividades", "tareas", "ver", "opciones", "ir", "inicio", "documentos",
-    "clases", "evaluacion", "evaluación", "foro", "foros"
+    "clases", "evaluacion", "evaluación", "foro", "foros", "notificar", "notificacion"
 ]
 
 def login_sga(driver, wait):
@@ -70,41 +69,12 @@ def obtener_lista_materias(driver, wait):
             match = re.search(r"id=([A-Za-z0-9]+)", href)
             if match:
                 materia_id = match.group(1)
-                
-                # Nombre potencial desde el enlace directo
-                txt_a = a.text.strip()
-                nombre = ""
-
-                if txt_a and not any(w in txt_a.lower() for w in PALABRAS_IGNORAR):
-                    nombre = txt_a
-                
-                # Si es un botón del tipo 'Compañeros', buscar en el contenedor padre
-                if not nombre:
-                    parent = a.find_parent(["tr", "td", "div", "li", "article"])
-                    if parent:
-                        # Buscar dentro de títulos h3, h4, h5, strong, b
-                        titulos_parent = parent.find_all(["h3", "h4", "h5", "h6", "strong", "b"])
-                        for t in titulos_parent:
-                            t_text = t.text.strip()
-                            if t_text and len(t_text) > 3 and not any(w in t_text.lower() for w in PALABRAS_IGNORAR):
-                                nombre = t_text
-                                break
-                        
-                        # Si aún no se encuentra, revisar líneas de texto descartando palabras ignoradas
-                        if not nombre:
-                            lineas = [l.strip() for l in parent.text.split("\n") if len(l.strip()) > 3]
-                            lineas_validas = [l for l in lineas if not any(w in l.lower() for w in PALABRAS_IGNORAR)]
-                            if lineas_validas:
-                                nombre = lineas_validas[0]
-
-                nombre = nombre or f"Materia_{materia_id[:6]}"
-                nombre = re.sub(r"\s+", " ", nombre)
-
                 url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
+                
                 if not any(m["id"] == materia_id for m in materias):
                     materias.append({
                         "id": materia_id,
-                        "nombre": nombre,
+                        "nombre": f"Materia_{materia_id[:6]}",
                         "url_actividades": url_actividades
                     })
 
@@ -163,23 +133,26 @@ def limpiar_titulo_tarea(texto):
     return resultado if len(resultado) > 2 else "Evaluación / Tarea Pendiente"
 
 def extraer_actividades_de_materia(driver, materia):
-    print(f"\n🔍 Entrando a actividades de: {materia['nombre']}")
     driver.get(materia['url_actividades'])
     time.sleep(3)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     
-    # Si la materia tiene un nombre genérico o de menú, extraer el nombre real del encabezado de la página de actividades
-    encabezado = soup.find(["h3", "h4", "h5", "legend", "div"], class_=re.compile(r"title|header|materia|heading", re.I))
-    if not encabezado:
-        encabezado = soup.find(["h3", "h4", "h5", "legend"])
-    
-    if encabezado and encabezado.text.strip():
-        nombre_materia_real = encabezado.text.strip()
-        nombre_materia_real = re.sub(r"\s+", " ", nombre_materia_real)
-        if len(nombre_materia_real) > 3 and not any(w in nombre_materia_real.lower() for w in PALABRAS_IGNORAR):
-            materia['nombre'] = nombre_materia_real
-            print(f"   📌 Nombre de materia actualizado a: {materia['nombre']}")
+    # 🎯 EXTRACCIÓN DEL NOMBRE SEGÚN EL DEVTOLS DEL SGA UTEQ
+    header_meta = soup.find("div", class_="alu-header-meta")
+    if header_meta:
+        # Busca el span que contiene el icono de libro fa-book o el primer span
+        icon_book = header_meta.find("i", class_=re.compile(r"fa-book", re.I))
+        if icon_book and icon_book.parent:
+            nombre_extraido = icon_book.parent.text.strip()
+        else:
+            nombre_extraido = header_meta.text.strip()
+
+        nombre_extraido = re.sub(r"\s+", " ", nombre_extraido)
+        if len(nombre_extraido) > 2:
+            materia['nombre'] = nombre_extraido
+
+    print(f"\n🔍 Procesando: {materia['nombre']}")
 
     pendientes = []
     filas = soup.find_all("tr")
