@@ -64,14 +64,20 @@ def obtener_lista_materias(driver, wait):
             if match:
                 materia_id = match.group(1)
                 
-                parent_text = a.find_parent(["tr", "td", "div", "li"])
-                texto_materia = ""
-                if parent_text:
-                    lineas = [l.strip() for l in parent_text.text.split("\n") if len(l.strip()) > 3]
-                    if lineas:
-                        texto_materia = lineas[0]
+                # Intentar obtener el nombre del texto del enlace o atributos
+                nombre = a.text.strip() or a.get("title", "") or a.get("aria-label", "")
+                
+                # Si sigue vacío, buscar en los contenedores superiores (tarjeta/fila)
+                if not nombre:
+                    parent = a.find_parent(["tr", "td", "div", "li", "article"])
+                    if parent:
+                        # Extraer todo el texto del bloque y tomar la primera línea con texto representativo
+                        lineas = [l.strip() for l in parent.text.split("\n") if len(l.strip()) > 3]
+                        lineas_filtradas = [l for l in lineas if not any(w in l.lower() for w in ["ver", "opciones", "ir", "actividades"])]
+                        if lineas_filtradas:
+                            nombre = lineas_filtradas[0]
 
-                nombre = a.text.strip() or texto_materia or f"Materia_{materia_id}"
+                nombre = nombre or f"Materia_{materia_id[:6]}"
                 nombre = re.sub(r"\s+", " ", nombre)
 
                 url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
@@ -83,6 +89,8 @@ def obtener_lista_materias(driver, wait):
                     })
 
     print(f"✅ Se encontraron {len(materias)} materia(s).")
+    for m in materias:
+        print(f"   ↳ Materia detectada: {m['nombre']}")
     return materias
 
 def parsear_fecha_cierre(texto):
@@ -123,6 +131,20 @@ def parsear_fecha_cierre(texto):
         pass
     return None
 
+def limpiar_titulo_tarea(texto):
+    # Eliminar fragmentos de fecha y hora del título capturado
+    patrones_limpieza = [
+        r"Inicio\s+\d{1,2}\s+de\s+[a-zA-Z]+\s+de\s+\d{4}.*",
+        r"Cierre\s+\d{1,2}\s+de\s+[a-zA-Z]+\s+de\s+\d{4}.*",
+        r"\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)?",
+        r"↓", r"↑"
+    ]
+    resultado = texto
+    for pat in patrones_limpieza:
+        resultado = re.sub(pat, "", resultado, flags=re.IGNORECASE)
+    resultado = re.sub(r"\s+", " ", resultado).strip()
+    return resultado if len(resultado) > 2 else "Evaluación / Tarea Pendiente"
+
 def extraer_actividades_de_materia(driver, materia):
     print(f"\n🔍 Entrando a actividades de: {materia['nombre']}")
     driver.get(materia['url_actividades'])
@@ -138,7 +160,7 @@ def extraer_actividades_de_materia(driver, materia):
         texto_fila = fila.text.strip()
         texto_lower = texto_fila.lower()
 
-        if not texto_fila or "cumplimiento de actividades" in texto_lower or "tarea/evaluación" in texto_lower:
+        if not texto_fila or "cumplimiento de actividades" in texto_lower:
             continue
 
         if any(estado in texto_lower for estado in estados_finalizados):
@@ -148,16 +170,21 @@ def extraer_actividades_de_materia(driver, materia):
         
         if es_pendiente or not any(st in texto_lower for st in estados_finalizados):
             cols = fila.find_all("td")
-            if len(cols) >= 2:
-                titulo_tarea = cols[0].text.strip()
-                if not titulo_tarea or len(titulo_tarea) < 3:
-                    titulo_tarea = cols[1].text.strip()
+            titulo_raw = ""
+            if cols:
+                # Buscar en las celdas texto que no sea solo fechas
+                for col in cols:
+                    txt = col.text.strip()
+                    if txt and not txt.lower().startswith("inicio") and not re.search(r"\d{4}", txt):
+                        titulo_raw = txt
+                        break
+                if not titulo_raw:
+                    titulo_raw = cols[0].text.strip()
             else:
-                titulo_elem = fila.find(["a", "strong", "b"])
-                titulo_tarea = titulo_elem.text.strip() if titulo_elem else f"Actividad {i+1}"
+                titulo_elem = fila.find(["a", "strong", "b", "h5", "h4"])
+                titulo_raw = titulo_elem.text.strip() if titulo_elem else f"Actividad {i+1}"
 
-            titulo_tarea = re.sub(r"\s+", " ", titulo_tarea)
-
+            titulo_tarea = limpiar_titulo_tarea(titulo_raw)
             fecha_limite = parsear_fecha_cierre(texto_fila)
 
             if fecha_limite:
