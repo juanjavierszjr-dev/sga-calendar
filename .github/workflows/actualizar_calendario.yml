@@ -2,10 +2,14 @@ name: Sincronizador SGA UTEQ a iCal
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 2 horas
     - cron: '0 */2 * * *'
-  # Permite ejecutarlo manualmente desde la interfaz de GitHub
   workflow_dispatch:
+
+# Otorga permisos de escritura para actualizar el archivo en el repositorio y en GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build-and-sync:
@@ -13,22 +17,19 @@ jobs:
 
     steps:
       - name: Checkout del código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Python 3.10
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Instalar Chrome y WebDriver
+      - name: Instalar Chrome y Dependencias
         run: |
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
-
-      - name: Instalar dependencias de Python
-        run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install selenium beautifulsoup4 ics
 
       - name: Ejecutar Extractor SGA UTEQ
         env:
@@ -37,7 +38,7 @@ jobs:
         run: python sga_calendar.py
 
       - name: Publicar archivo en GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
