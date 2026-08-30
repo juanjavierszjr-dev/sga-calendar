@@ -26,6 +26,13 @@ MESES_ES = {
     "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12
 }
 
+# Palabras que deben ignorarse al buscar el nombre de la asignatura
+PALABRAS_IGNORAR = [
+    "compañeros", "profesor", "profesores", "asistencia", "silabo", "sílabo",
+    "actividades", "tareas", "ver", "opciones", "ir", "inicio", "documentos",
+    "clases", "evaluacion", "evaluación", "foro", "foros"
+]
+
 def login_sga(driver, wait):
     print("➡️  Accediendo al SGA UTEQ...")
     driver.get(SGA_URL)
@@ -64,18 +71,31 @@ def obtener_lista_materias(driver, wait):
             if match:
                 materia_id = match.group(1)
                 
-                # Intentar obtener el nombre del texto del enlace o atributos
-                nombre = a.text.strip() or a.get("title", "") or a.get("aria-label", "")
+                # Nombre potencial desde el enlace directo
+                txt_a = a.text.strip()
+                nombre = ""
+
+                if txt_a and not any(w in txt_a.lower() for w in PALABRAS_IGNORAR):
+                    nombre = txt_a
                 
-                # Si sigue vacío, buscar en los contenedores superiores (tarjeta/fila)
+                # Si es un botón del tipo 'Compañeros', buscar en el contenedor padre
                 if not nombre:
                     parent = a.find_parent(["tr", "td", "div", "li", "article"])
                     if parent:
-                        # Extraer todo el texto del bloque y tomar la primera línea con texto representativo
-                        lineas = [l.strip() for l in parent.text.split("\n") if len(l.strip()) > 3]
-                        lineas_filtradas = [l for l in lineas if not any(w in l.lower() for w in ["ver", "opciones", "ir", "actividades"])]
-                        if lineas_filtradas:
-                            nombre = lineas_filtradas[0]
+                        # Buscar dentro de títulos h3, h4, h5, strong, b
+                        titulos_parent = parent.find_all(["h3", "h4", "h5", "h6", "strong", "b"])
+                        for t in titulos_parent:
+                            t_text = t.text.strip()
+                            if t_text and len(t_text) > 3 and not any(w in t_text.lower() for w in PALABRAS_IGNORAR):
+                                nombre = t_text
+                                break
+                        
+                        # Si aún no se encuentra, revisar líneas de texto descartando palabras ignoradas
+                        if not nombre:
+                            lineas = [l.strip() for l in parent.text.split("\n") if len(l.strip()) > 3]
+                            lineas_validas = [l for l in lineas if not any(w in l.lower() for w in PALABRAS_IGNORAR)]
+                            if lineas_validas:
+                                nombre = lineas_validas[0]
 
                 nombre = nombre or f"Materia_{materia_id[:6]}"
                 nombre = re.sub(r"\s+", " ", nombre)
@@ -89,8 +109,6 @@ def obtener_lista_materias(driver, wait):
                     })
 
     print(f"✅ Se encontraron {len(materias)} materia(s).")
-    for m in materias:
-        print(f"   ↳ Materia detectada: {m['nombre']}")
     return materias
 
 def parsear_fecha_cierre(texto):
@@ -132,7 +150,6 @@ def parsear_fecha_cierre(texto):
     return None
 
 def limpiar_titulo_tarea(texto):
-    # Eliminar fragmentos de fecha y hora del título capturado
     patrones_limpieza = [
         r"Inicio\s+\d{1,2}\s+de\s+[a-zA-Z]+\s+de\s+\d{4}.*",
         r"Cierre\s+\d{1,2}\s+de\s+[a-zA-Z]+\s+de\s+\d{4}.*",
@@ -151,8 +168,20 @@ def extraer_actividades_de_materia(driver, materia):
     time.sleep(3)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
-    pendientes = []
+    
+    # Si la materia tiene un nombre genérico o de menú, extraer el nombre real del encabezado de la página de actividades
+    encabezado = soup.find(["h3", "h4", "h5", "legend", "div"], class_=re.compile(r"title|header|materia|heading", re.I))
+    if not encabezado:
+        encabezado = soup.find(["h3", "h4", "h5", "legend"])
+    
+    if encabezado and encabezado.text.strip():
+        nombre_materia_real = encabezado.text.strip()
+        nombre_materia_real = re.sub(r"\s+", " ", nombre_materia_real)
+        if len(nombre_materia_real) > 3 and not any(w in nombre_materia_real.lower() for w in PALABRAS_IGNORAR):
+            materia['nombre'] = nombre_materia_real
+            print(f"   📌 Nombre de materia actualizado a: {materia['nombre']}")
 
+    pendientes = []
     filas = soup.find_all("tr")
     estados_finalizados = ["calificado", "evaluado", "cerrada", "finalizado", "cumplidas", "cumplida"]
 
@@ -172,7 +201,6 @@ def extraer_actividades_de_materia(driver, materia):
             cols = fila.find_all("td")
             titulo_raw = ""
             if cols:
-                # Buscar en las celdas texto que no sea solo fechas
                 for col in cols:
                     txt = col.text.strip()
                     if txt and not txt.lower().startswith("inicio") and not re.search(r"\d{4}", txt):
