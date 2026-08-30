@@ -57,7 +57,6 @@ def obtener_lista_materias(driver, wait):
     soup = BeautifulSoup(driver.page_source, "html.parser")
     materias = []
 
-    # Se busca la tarjeta o fila contenedora para extraer el nombre de la materia completo
     for a in soup.find_all("a", href=True):
         href = a["href"]
         if "action=" in href and "id=" in href:
@@ -65,17 +64,14 @@ def obtener_lista_materias(driver, wait):
             if match:
                 materia_id = match.group(1)
                 
-                # Intentar obtener el texto del contenedor padre si 'a' no tiene texto visible
-                 parent_text = a.find_parent(["tr", "td", "div", "li"])
-                 texto_materia = ""
-                 if parent_text:
-                     # Extraer texto ignorando botones o etiquetas cortas
-                     lineas = [l.strip() for l in parent_text.text.split("\n") if len(l.strip()) > 3]
-                     if lineas:
-                         texto_materia = lineas[0]
+                parent_text = a.find_parent(["tr", "td", "div", "li"])
+                texto_materia = ""
+                if parent_text:
+                    lineas = [l.strip() for l in parent_text.text.split("\n") if len(l.strip()) > 3]
+                    if lineas:
+                        texto_materia = lineas[0]
 
                 nombre = a.text.strip() or texto_materia or f"Materia_{materia_id}"
-                # Limpieza de saltos de línea extra
                 nombre = re.sub(r"\s+", " ", nombre)
 
                 url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
@@ -110,7 +106,6 @@ def parsear_fecha_cierre(texto):
             elif "am" in texto.lower() and hora == 12:
                 hora = 0
 
-            # Asignar zona horaria explícita
             dt_local = datetime(anio, mes, dia, hora, minuto)
             return TZ_ECUADOR.localize(dt_local)
 
@@ -143,7 +138,6 @@ def extraer_actividades_de_materia(driver, materia):
         texto_fila = fila.text.strip()
         texto_lower = texto_fila.lower()
 
-        # Filtrar encabezados y actividades finalizadas
         if not texto_fila or "cumplimiento de actividades" in texto_lower or "tarea/evaluación" in texto_lower:
             continue
 
@@ -153,10 +147,8 @@ def extraer_actividades_de_materia(driver, materia):
         es_pendiente = any(st in texto_lower for st in ["por evaluar", "próximamente", "proximamente", "pendiente", "abierta"])
         
         if es_pendiente or not any(st in texto_lower for st in estados_finalizados):
-            # Obtener celdas (td) de la fila para extraer exactamente el título de la tarea
             cols = fila.find_all("td")
             if len(cols) >= 2:
-                # Usualmente la columna 0 o 1 contiene la descripción/título de la actividad
                 titulo_tarea = cols[0].text.strip()
                 if not titulo_tarea or len(titulo_tarea) < 3:
                     titulo_tarea = cols[1].text.strip()
@@ -164,7 +156,6 @@ def extraer_actividades_de_materia(driver, materia):
                 titulo_elem = fila.find(["a", "strong", "b"])
                 titulo_tarea = titulo_elem.text.strip() if titulo_elem else f"Actividad {i+1}"
 
-            # Limpiar saltos de línea y espacios múltiples
             titulo_tarea = re.sub(r"\s+", " ", titulo_tarea)
 
             fecha_limite = parsear_fecha_cierre(texto_fila)
@@ -223,6 +214,7 @@ def main():
 
     except Exception as e:
         print(f"\n❌ Error en la ejecución: {e}")
+        raise e
     finally:
         driver.quit()
 
