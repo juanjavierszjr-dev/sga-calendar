@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSNUU\nTarea/Evaluación: Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTSTART:20260920T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSNUU] Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM
-UID:ba89d27a-85e2-4fa9-b47c-c640b236ad55@ba89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSNUS\nTarea/Evaluación: Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260913T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSNUS] Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM
-UID:391482dc-aca9-4aad-b3cf-eacf667ad04a@3914.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:c95cf880-1715-41b8-aa4a-4008f95e7a54@c95c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSNUS\nTarea/Evaluación: Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTSTART:20260920T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSNUS] Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM
-UID:a5685d35-49e3-4109-9489-39d18880ffd7@a568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSNUT\nTarea/Evaluación: Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTSTART:20260913T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSNUT] Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM
-UID:7f0c82f5-e2e4-45ac-b12e-6544b68a9d03@7f0c.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:e12b2b07-db73-4f6a-93e5-6fe0cc166fc2@e12b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSOLL\nTarea/Evaluación: Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTSTART:20260920T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSOLL] Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM
-UID:2eeb5864-fbce-45f6-befd-d6e5721a471c@2eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSNUU\nTarea/Evaluación: Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
 DTSTART:20260913T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSNUU] Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM
-UID:3c46723f-9456-4986-aa0d-22a63fb977e5@3c46.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:fb3bb02a-8c35-44da-b44c-e0d3cc56617b@fb3b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSOLM\nTarea/Evaluación: Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
 DTSTART:20260920T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSOLM] Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM
-UID:676994d1-83d5-4a27-8f3c-4aa2f1080255@6769.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:777744e6-54de-4a72-8e7f-917140dc5d91@7777.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSOLM\nTarea/Evaluación: Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
 DTSTART:20260913T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSOLM] Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM
-UID:5700d7ab-aa80-4c78-9120-3ac40963d8b9@5700.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:6126dbe1-2f4a-4c7d-b24a-5ba2411d9df7@6126.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSOLL\nTarea/Evaluación: Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
 DTSTART:20260913T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSOLL] Inicio 13 de Septiembre de 2026 18:00 PM ↓ Cierre 13 de Septiembre de 2026 18:00 PM
-UID:5705c3a6-310e-48cf-a78b-06b72f005d6e@5705.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:c9f40007-9288-429c-b4f8-34aca4fc3b73@c9f4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Materia_OOPPPQQQRRRSSPSNSNUT\nTarea/Evaluación: Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260920T230000Z
-SUMMARY:[Materia_OOPPPQQQRRRSSPSNSNUT] Inicio 20 de Septiembre de 2026 18:00 PM ↓ Cierre 20 de Septiembre de 2026 18:00 PM
-UID:55a36040-3c5b-4646-99bc-af3b5402c804@55a3.org
+SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:fb8fe8d4-08f7-433a-832d-9859df3d4833@fb8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260920T230000Z
+SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:9fc9a78e-2860-4018-9e95-082f71817e62@9fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTSTART:20260920T230000Z
+SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:addb88d6-22ca-4ba7-9390-018bd0cad6a4@addb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260920T230000Z
+SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:35dec485-dd6f-4b65-8675-5cf40ffdbe4e@35de.org
 END:VEVENT
 END:VCALENDAR
