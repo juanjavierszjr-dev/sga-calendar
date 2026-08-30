@@ -2,63 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260913T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:c95cf880-1715-41b8-aa4a-4008f95e7a54@c95c.org
+SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:9f9dba5c-1a3e-496d-a968-0e97ce687fab@9f9d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
 DTSTART:20260913T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:e12b2b07-db73-4f6a-93e5-6fe0cc166fc2@e12b.org
+SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:ce77a191-7c25-4cc6-a482-2a7d08ac16f3@ce77.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTSTART:20260920T230000Z
+SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:8014e181-a15a-4fe7-93ae-4bd96a5d80d1@8014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260920T230000Z
+SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:76cdc831-042f-4034-b938-0fb4b20a6813@76cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260920T230000Z
+SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:f61e802d-69a5-4403-8cdb-11f98339a9f6@f61e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTSTART:20260913T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:fb3bb02a-8c35-44da-b44c-e0d3cc56617b@fb3b.org
+SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:a884a765-a063-4948-aec4-0659b9532161@a884.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTSTART:20260920T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:777744e6-54de-4a72-8e7f-917140dc5d91@7777.org
+SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:1d4cf532-6bb9-4989-a145-1ab3d83cf07b@1d4c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
 DTSTART:20260913T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:6126dbe1-2f4a-4c7d-b24a-5ba2411d9df7@6126.org
+SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:03141db1-e4d8-488c-a0db-af4310e20cd4@0314.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTSTART:20260920T230000Z
+SUMMARY:[Notificaciones] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:6551418b-12d3-4dae-b6cc-c1a0da3480fd@6551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: Notificaciones\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
 DTSTART:20260913T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:c9f40007-9288-429c-b4f8-34aca4fc3b73@c9f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTSTART:20260920T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:fb8fe8d4-08f7-433a-832d-9859df3d4833@fb8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTSTART:20260920T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:9fc9a78e-2860-4018-9e95-082f71817e62@9fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTSTART:20260920T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:addb88d6-22ca-4ba7-9390-018bd0cad6a4@addb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: Compañeros\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTSTART:20260920T230000Z
-SUMMARY:[Compañeros] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:35dec485-dd6f-4b65-8675-5cf40ffdbe4e@35de.org
+SUMMARY:[Notificaciones] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:3246faf6-e2eb-4596-98fe-6a89666a9952@3246.org
 END:VEVENT
 END:VCALENDAR
