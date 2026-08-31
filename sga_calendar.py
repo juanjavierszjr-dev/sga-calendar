@@ -46,39 +46,41 @@ def login_sga(driver, wait):
 
     driver.find_element(By.ID, "logindeclaracion1").click()
     print("✅ Login completado.")
-    time.sleep(3)
+    time.sleep(4)
 
 def obtener_lista_materias(driver, wait):
     url_materias = f"{SGA_URL}alu_materias"
     print(f"\n➡️  Navegando a la lista de materias: {url_materias}")
     driver.get(url_materias)
-    time.sleep(4)
+    
+    # Hacer scroll hacia abajo para forzar la carga completa del DOM
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(5)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     materias = []
 
-    # 1. Estrategia Principal: Extraer directo desde las tarjetas (av-card)
+    # 1. Extracción por tarjetas visuales (av-card)
     cards = soup.find_all("div", class_=re.compile(r"av-card", re.I))
+    print(f"🔍 Tarjetas de materias detectadas en el DOM: {len(cards)}")
+
     for card in cards:
-        # Buscar el nombre en la clase av-card-title
+        # Extraer nombre exacto de la materia
         title_elem = card.find(class_=re.compile(r"av-card-title", re.I))
         nombre = title_elem.text.strip() if title_elem else ""
 
-        # Buscar el ID de la materia
         materia_id = None
-        
-        # Buscar en atributos id que contengan 'encabezado_'
-        header_elem = card.find(id=re.compile(r"encabezado_", re.I))
-        if header_elem and header_elem.get("id"):
-            materia_id = header_elem["id"].replace("encabezado_", "").strip()
+        html_card = str(card)
 
-        # Si no lo halla en el id del header, buscar dentro de enlaces a o botones de la tarjeta
+        # Buscar cualquier patrón de ID o Hash dentro de la tarjeta
+        match_id = re.search(r'id=["\'](?:encabezado_)?([A-Za-z0-9_-]+)["\']', html_card)
+        if match_id:
+            materia_id = match_id.group(1).replace("encabezado_", "")
+        
         if not materia_id:
-            for a in card.find_all("a", href=True):
-                match = re.search(r"id=([A-Za-z0-9]+)", a["href"])
-                if match:
-                    materia_id = match.group(1)
-                    break
+            match_href = re.search(r'id=([A-Za-z0-9_-]+)', html_card)
+            if match_href:
+                materia_id = match_href.group(1)
 
         if materia_id and not any(m["id"] == materia_id for m in materias):
             nombre_final = re.sub(r"\s+", " ", nombre) if nombre else f"Materia_{materia_id[:6]}"
@@ -89,12 +91,12 @@ def obtener_lista_materias(driver, wait):
                 "url_actividades": url_actividades
             })
 
-    # 2. Estrategia Secundaria: Fallback buscando enlaces globales si no encontró tarjetas
+    # 2. Fallback: Búsqueda global por enlaces si la lista vino vacía
     if not materias:
         for a in soup.find_all("a", href=True):
             href = a["href"]
             if "id=" in href:
-                match = re.search(r"id=([A-Za-z0-9]+)", href)
+                match = re.search(r"id=([A-Za-z0-9_-]+)", href)
                 if match:
                     materia_id = match.group(1)
                     url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
@@ -105,9 +107,9 @@ def obtener_lista_materias(driver, wait):
                             "url_actividades": url_actividades
                         })
 
-    print(f"✅ Se encontraron {len(materias)} materia(s) en total:")
+    print(f"\n✅ Total de materias procesadas ({len(materias)}):")
     for m in materias:
-        print(f"   📌 {m['nombre']} (ID: {m['id']})")
+        print(f"   📌 {m['nombre']} | ID: {m['id']}")
 
     return materias
 
@@ -168,7 +170,6 @@ def extraer_actividades_de_materia(driver, materia):
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     
-    # Si la materia vino con un nombre genérico, intentar afinarlo desde la cabecera interna
     if materia['nombre'].startswith("Materia_"):
         header_meta = soup.find("div", class_="alu-header-meta")
         if header_meta:
@@ -182,7 +183,7 @@ def extraer_actividades_de_materia(driver, materia):
             if len(nombre_extraido) > 2:
                 materia['nombre'] = nombre_extraido
 
-    print(f"\n🔍 Procesando: {materia['nombre']}")
+    print(f"\n🔍 Entrando a actividades: {materia['nombre']}")
 
     pendientes = []
     filas = soup.find_all("tr")
