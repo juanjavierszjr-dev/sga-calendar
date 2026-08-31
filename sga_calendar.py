@@ -26,12 +26,6 @@ MESES_ES = {
     "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12
 }
 
-PALABRAS_IGNORAR = [
-    "compañeros", "profesor", "profesores", "asistencia", "silabo", "sílabo",
-    "actividades", "tareas", "ver", "opciones", "ir", "inicio", "documentos",
-    "clases", "evaluacion", "evaluación", "foro", "foros", "notificar", "notificacion"
-]
-
 def login_sga(driver, wait):
     print("➡️  Accediendo al SGA UTEQ...")
     driver.get(SGA_URL)
@@ -63,22 +57,58 @@ def obtener_lista_materias(driver, wait):
     soup = BeautifulSoup(driver.page_source, "html.parser")
     materias = []
 
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if "action=" in href and "id=" in href:
-            match = re.search(r"id=([A-Za-z0-9]+)", href)
-            if match:
-                materia_id = match.group(1)
-                url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
-                
-                if not any(m["id"] == materia_id for m in materias):
-                    materias.append({
-                        "id": materia_id,
-                        "nombre": f"Materia_{materia_id[:6]}",
-                        "url_actividades": url_actividades
-                    })
+    # 1. Estrategia Principal: Extraer directo desde las tarjetas (av-card)
+    cards = soup.find_all("div", class_=re.compile(r"av-card", re.I))
+    for card in cards:
+        # Buscar el nombre en la clase av-card-title
+        title_elem = card.find(class_=re.compile(r"av-card-title", re.I))
+        nombre = title_elem.text.strip() if title_elem else ""
 
-    print(f"✅ Se encontraron {len(materias)} materia(s).")
+        # Buscar el ID de la materia
+        materia_id = None
+        
+        # Buscar en atributos id que contengan 'encabezado_'
+        header_elem = card.find(id=re.compile(r"encabezado_", re.I))
+        if header_elem and header_elem.get("id"):
+            materia_id = header_elem["id"].replace("encabezado_", "").strip()
+
+        # Si no lo halla en el id del header, buscar dentro de enlaces a o botones de la tarjeta
+        if not materia_id:
+            for a in card.find_all("a", href=True):
+                match = re.search(r"id=([A-Za-z0-9]+)", a["href"])
+                if match:
+                    materia_id = match.group(1)
+                    break
+
+        if materia_id and not any(m["id"] == materia_id for m in materias):
+            nombre_final = re.sub(r"\s+", " ", nombre) if nombre else f"Materia_{materia_id[:6]}"
+            url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
+            materias.append({
+                "id": materia_id,
+                "nombre": nombre_final,
+                "url_actividades": url_actividades
+            })
+
+    # 2. Estrategia Secundaria: Fallback buscando enlaces globales si no encontró tarjetas
+    if not materias:
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "id=" in href:
+                match = re.search(r"id=([A-Za-z0-9]+)", href)
+                if match:
+                    materia_id = match.group(1)
+                    url_actividades = f"{SGA_URL}alu_documentos?action=actividades_materia&id={materia_id}"
+                    if not any(m["id"] == materia_id for m in materias):
+                        materias.append({
+                            "id": materia_id,
+                            "nombre": f"Materia_{materia_id[:6]}",
+                            "url_actividades": url_actividades
+                        })
+
+    print(f"✅ Se encontraron {len(materias)} materia(s) en total:")
+    for m in materias:
+        print(f"   📌 {m['nombre']} (ID: {m['id']})")
+
     return materias
 
 def parsear_fecha_cierre(texto):
@@ -138,19 +168,19 @@ def extraer_actividades_de_materia(driver, materia):
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     
-    # 🎯 EXTRACCIÓN DEL NOMBRE SEGÚN EL DEVTOLS DEL SGA UTEQ
-    header_meta = soup.find("div", class_="alu-header-meta")
-    if header_meta:
-        # Busca el span que contiene el icono de libro fa-book o el primer span
-        icon_book = header_meta.find("i", class_=re.compile(r"fa-book", re.I))
-        if icon_book and icon_book.parent:
-            nombre_extraido = icon_book.parent.text.strip()
-        else:
-            nombre_extraido = header_meta.text.strip()
+    # Si la materia vino con un nombre genérico, intentar afinarlo desde la cabecera interna
+    if materia['nombre'].startswith("Materia_"):
+        header_meta = soup.find("div", class_="alu-header-meta")
+        if header_meta:
+            icon_book = header_meta.find("i", class_=re.compile(r"fa-book", re.I))
+            if icon_book and icon_book.parent:
+                nombre_extraido = icon_book.parent.text.strip()
+            else:
+                nombre_extraido = header_meta.text.strip()
 
-        nombre_extraido = re.sub(r"\s+", " ", nombre_extraido)
-        if len(nombre_extraido) > 2:
-            materia['nombre'] = nombre_extraido
+            nombre_extraido = re.sub(r"\s+", " ", nombre_extraido)
+            if len(nombre_extraido) > 2:
+                materia['nombre'] = nombre_extraido
 
     print(f"\n🔍 Procesando: {materia['nombre']}")
 
