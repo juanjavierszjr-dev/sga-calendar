@@ -53,26 +53,21 @@ def obtener_lista_materias(driver, wait):
     print(f"\n➡️  Navegando a la lista de materias: {url_materias}")
     driver.get(url_materias)
     
-    # Hacer scroll hacia abajo para forzar la carga completa del DOM
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(5)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     materias = []
 
-    # 1. Extracción por tarjetas visuales (av-card)
     cards = soup.find_all("div", class_=re.compile(r"av-card", re.I))
-    print(f"🔍 Tarjetas de materias detectadas en el DOM: {len(cards)}")
 
     for card in cards:
-        # Extraer nombre exacto de la materia
         title_elem = card.find(class_=re.compile(r"av-card-title", re.I))
         nombre = title_elem.text.strip() if title_elem else ""
 
         materia_id = None
         html_card = str(card)
 
-        # Buscar cualquier patrón de ID o Hash dentro de la tarjeta
         match_id = re.search(r'id=["\'](?:encabezado_)?([A-Za-z0-9_-]+)["\']', html_card)
         if match_id:
             materia_id = match_id.group(1).replace("encabezado_", "")
@@ -91,7 +86,6 @@ def obtener_lista_materias(driver, wait):
                 "url_actividades": url_actividades
             })
 
-    # 2. Fallback: Búsqueda global por enlaces si la lista vino vacía
     if not materias:
         for a in soup.find_all("a", href=True):
             href = a["href"]
@@ -187,7 +181,9 @@ def extraer_actividades_de_materia(driver, materia):
 
     pendientes = []
     filas = soup.find_all("tr")
-    estados_finalizados = ["calificado", "evaluado", "cerrada", "finalizado", "cumplidas", "cumplida"]
+    
+    # Estados que representan entrega completada o evaluada
+    estados_completados = ["calificado", "evaluado", "cumplidas", "cumplida"]
 
     for i, fila in enumerate(filas):
         texto_fila = fila.text.strip()
@@ -196,12 +192,15 @@ def extraer_actividades_de_materia(driver, materia):
         if not texto_fila or "cumplimiento de actividades" in texto_lower:
             continue
 
-        if any(estado in texto_lower for estado in estados_finalizados):
+        # Si ya fue evaluado/calificado, omitir
+        if any(estado in texto_lower for estado in estados_completados):
             continue
 
+        # Se considera pendiente si tiene 'sin entregar', 'por evaluar', 'pendiente', 'abierta' o 'cerrada' (sin entregar)
+        es_sin_entregar = "sin entregar" in texto_lower
         es_pendiente = any(st in texto_lower for st in ["por evaluar", "próximamente", "proximamente", "pendiente", "abierta"])
-        
-        if es_pendiente or not any(st in texto_lower for st in estados_finalizados):
+
+        if es_sin_entregar or es_pendiente or not any(st in texto_lower for st in estados_completados):
             cols = fila.find_all("td")
             titulo_raw = ""
             if cols:
