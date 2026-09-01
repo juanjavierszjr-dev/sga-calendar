@@ -153,20 +153,22 @@ def limpiar_titulo_tarea(texto):
 
 def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
-    # Lista ampliada de palabras clave para tareas completadas o calificadas
-    palabras_completado = [
-        "calificado", "calificada", "evaluado", "evaluada", 
-        "finalizado", "finalizada", "cumplidas", "cumplida", "cerrada"
-    ]
     
-    if any(st in texto_lower for st in palabras_completado):
-        return "🟢", "COMPLETADO / EVALUADO"
+    # 1. Prioridad para tareas pendientes o sin entregar (incluso si dicen 'cerrada')
+    palabras_pendiente = ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]
+    if any(st in texto_lower for st in palabras_pendiente):
+        return "🔴", "PENDIENTE / SIN ENTREGAR"
+        
+    # 2. Tareas entregadas a la espera de calificación
     elif "por evaluar" in texto_lower:
         return "🟡", "POR EVALUAR"
-    elif any(st in texto_lower for st in ["sin entregar","Sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]):
-        return "🔴", "PENDIENTE / SIN ENTREGAR"
+        
+    # 3. Tareas completadas o evaluadas (se removió 'cerrada' para evitar falsos positivos)
+    elif any(st in texto_lower for st in ["calificado", "calificada", "evaluado", "evaluada", "finalizado", "finalizada", "cumplidas", "cumplida"]):
+        return "🟢", "COMPLETADO / EVALUADO"
+        
     else:
-        return "⚪", "INFORMACIÓN/SIN ESTATUS"
+        return "⚪", "INFORMACIÓN / SIN ESTATUS"
 
 def extraer_actividades_de_materia(driver, materia):
     driver.get(materia['url_actividades'])
