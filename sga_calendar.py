@@ -153,14 +153,6 @@ def limpiar_titulo_tarea(texto):
 
 def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
-    # Lista ampliada de palabras clave para tareas completadas o calificadas
-    palabras_completado = [
-        "calificado", "calificada", "evaluado", "evaluada", 
-        "finalizado", "finalizada", "cumplidas", "cumplida", "cerrada"
-    ]
-    
- def determinar_estado_emoji(texto_lower):
-    """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
     
     # 1. Prioridad para tareas pendientes o sin entregar (incluso si dicen 'cerrada')
     palabras_pendiente = ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]
