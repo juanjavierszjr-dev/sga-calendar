@@ -2,81 +2,279 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTSTART:20260920T230000Z
 SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:32ae4b2a-c046-48f8-9d03-1c098df6072d@32ae.org
+UID:68fc7a66-d6c6-4993-972e-b43e78737d18@68fc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: ALGORITMOS Y PSEUDOCÓDIGOS\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTSTART:20260920T230000Z
-SUMMARY:[ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:2db60a5f-4125-4cce-ba64-8cb57bcfd155@2db6.org
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario LECCIÓN FRECUENTE C2 Sem. 13 LECCIONES FRECUENTES\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260729T020000Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN FRECUENTE C2 Sem. 13 LECCIONES FRECUENTES
+UID:1b6d40a2-d070-459e-8e9c-595155c00dbd@1b6d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Tarea Comentario sobre la asignatura Sem. 17 PRÁCTICAS FUERA DE CLASE Individual Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260825T040000Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Comentario sobre la asignatura Sem. 17 PRÁCTICAS FUERA DE CLASE Individual Formativa (Autoevaluación)
+UID:1599eb1b-4f48-4006-a8fa-6433a4ec93eb@1599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260913T230000Z
 SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:f8f35fe3-2979-46c3-9aaa-27102ff32752@f8f3.org
+UID:ff6000c0-b254-4e66-993c-fa51f3e54967@ff60.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTSTART:20260615T050000Z
-SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:541e9978-0477-405f-a285-b97006a079a7@541e.org
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 7 Sem. 15 LECCIONES FRECUENTES Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260810T050000Z
+SUMMARY:[INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 7 Sem. 15 LECCIONES FRECUENTES Formativa (Autoevaluación)
+UID:2905273b-c7a0-460a-b086-095d897c2ab5@2905.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTSTART:20260920T230000Z
-SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:c9874ae0-abb8-4513-8deb-52a12f06dc7f@c987.org
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario ASSESSMENT UNITS 1-2 Sem. 4 LECCIONES FRECUENTES Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260614T023500Z
+SUMMARY:[INGLES II] Cuestionario ASSESSMENT UNITS 1-2 Sem. 4 LECCIONES FRECUENTES Bloqueado
+UID:27997fe2-7aa8-4cad-939e-5181a57e931d@2799.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SELF ASSESSMENT UNIT 8 Sem. 16 LECCIONES FRECUENTES Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260817T170000Z
+SUMMARY:[INGLES II] Cuestionario SELF ASSESSMENT UNIT 8 Sem. 16 LECCIONES FRECUENTES Formativa (Autoevaluación)
+UID:c254bf7c-fa64-4f01-bcab-41ff46b85fb4@c254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN DE LECTURA COMPRENSIVA Sem. 4 LECCIONES FRECUENTES Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260528T022000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DE LECTURA COMPRENSIVA Sem. 4 LECCIONES FRECUENTES Bloqueado
+UID:bc6a15ef-e681-4bea-89bb-ef7cd733ef03@bc6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
 DTSTART:20260913T230000Z
 SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:30caa18b-35b9-474f-a844-9efc6d92a01c@30ca.org
+UID:61e8cd84-7ab9-4cb9-b7fb-2174ca7825db@61e8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTSTART:20260913T230000Z
-SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:f0e8cae6-e3da-412c-b436-124b3b98240e@f0e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
 DTSTART:20260920T230000Z
 SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:4781cba2-e9af-40cc-ab94-51d5bf2c5e6a@4781.org
+UID:d78d3515-1905-4209-a437-85fc704cf3d6@d78d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 4 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260615T170000Z
+SUMMARY:[INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 4 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:6a53923d-39e8-48c6-8e61-deedd3aefa0f@6a53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EVALUACION (FRECUENTE) Sem. 17 LECCIÓN PARCIAL Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTSTART:20260828T014500Z
+SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACION (FRECUENTE) Sem. 17 LECCIÓN PARCIAL Formativa (Autoevaluación)
+UID:909cb2bc-19a1-4b63-af67-76213d8b665b@909c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario UNIT 1 SELF ASSESSMENT TEST Sem. 2 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260608T170000Z
+SUMMARY:[INGLES II] Cuestionario UNIT 1 SELF ASSESSMENT TEST Sem. 2 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:97bac6b1-b6a5-4244-abfd-32a3cced4e12@97ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTSTART:20260615T050000Z
+SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:a7e49e74-8022-441b-8510-c2405feed060@a7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EVA DIAG Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260509T014000Z
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EVA DIAG Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:db847772-2fe9-48f8-a024-2c36926728da@db84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario ASSESSMENT UNITS 3-4 Sem. 9 LECCIÓN PARCIAL Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260629T170000Z
+SUMMARY:[INGLES II] Cuestionario ASSESSMENT UNITS 3-4 Sem. 9 LECCIÓN PARCIAL Bloqueado
+UID:62056576-3a14-47ff-8ffb-98141b360c57@6205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 5 Sem. 10 LECCIONES FRECUENTES Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260706T170000Z
+SUMMARY:[INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 5 Sem. 10 LECCIONES FRECUENTES Formativa (Autoevaluación)
+UID:3ef593e6-84ee-452e-a770-653918851b9f@3ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN FRECUENTE Sem. 13 LECCIONES FRECUENTES\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260730T005500Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FRECUENTE Sem. 13 LECCIONES FRECUENTES
+UID:40576c39-aa91-46c0-afba-f703ee267203@4057.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN FORMATIVA 2 Sem. 17 LECCIÓN PARCIAL Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260823T020000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FORMATIVA 2 Sem. 17 LECCIÓN PARCIAL Formativa (Autoevaluación)
+UID:2d3b4ccc-94a2-4ab5-b12b-01f8dad29ccd@2d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario ASSESSMENT UNITS 5 AND 6 Sem. 13 LECCIONES FRECUENTES\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260727T170000Z
+SUMMARY:[INGLES II] Cuestionario ASSESSMENT UNITS 5 AND 6 Sem. 13 LECCIONES FRECUENTES
+UID:a84f2692-407e-4f15-85ef-4ecdf0a5f143@a84f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN DIAGNOSTICA Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260505T010000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DIAGNOSTICA Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:bedac64e-e7b7-4a60-b18f-e857aec4bdaf@beda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario LECCION FRECUENTE Sem. 14 LECCIONES FRECUENTES\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260808T004500Z
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario LECCION FRECUENTE Sem. 14 LECCIONES FRECUENTES
+UID:40fcb204-bd59-4aaf-822f-c9ab668ba566@40fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EVALUACION 1 Sem. 5 LECCIONES FRECUENTES Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260606T010500Z
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EVALUACION 1 Sem. 5 LECCIONES FRECUENTES Bloqueado
+UID:13fba7aa-d873-4a20-9931-b2f8e9f91275@13fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario PRUEBA DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260511T030000Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario PRUEBA DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:11ab56cf-4a14-4743-9b65-7985ae4d90b5@11ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SELF-ASSESSMENT UNIT 6 Sem. 12 LECCIONES FRECUENTES Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260720T170000Z
+SUMMARY:[INGLES II] Cuestionario SELF-ASSESSMENT UNIT 6 Sem. 12 LECCIONES FRECUENTES Formativa (Autoevaluación)
+UID:dbd38b48-86ce-4be4-92c4-8e5e39b67ced@dbd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SUMMATIVE ASSESSMENT UNITS 7 - 8 Sem. 17 LECCIÓN PARCIAL\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260824T170000Z
+SUMMARY:[INGLES II] Cuestionario SUMMATIVE ASSESSMENT UNITS 7 - 8 Sem. 17 LECCIÓN PARCIAL
+UID:a08b6d0e-4765-4883-8113-f4b80f6654bc@a08b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario UNIT 2 SELF ASSESSMENT Sem. 3 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260518T170000Z
+SUMMARY:[INGLES II] Cuestionario UNIT 2 SELF ASSESSMENT Sem. 3 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:4e4a55f6-03d4-4e2e-b16e-587f9a96f8e7@4e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EVALUACIÓN DE CORTE Sem. 9 LECCIONES FRECUENTES Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260704T020000Z
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EVALUACIÓN DE CORTE Sem. 9 LECCIONES FRECUENTES Bloqueado
+UID:670113f9-6907-4b24-98b8-f3eaae3fe1af@6701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario LECCIÓN PARCIAL C2 Sem. 17 LECCIÓN PARCIAL\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260826T011500Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN PARCIAL C2 Sem. 17 LECCIÓN PARCIAL
+UID:e1a1ae33-ad66-423d-af20-1673b303d09f@e1a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTSTART:20260913T230000Z
-SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:a6fb92cd-d7c5-49db-ad25-b68a9990bad5@a6fb.org
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:62da2acd-e496-4b94-b91e-7772f1cf2f96@62da.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: ALGORITMOS Y PSEUDOCÓDIGOS\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTSTART:20260913T230000Z
-SUMMARY:[ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:de83bbaf-ae0f-44dd-8cca-fbd3fdecd80d@de83.org
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario SELF ASSESMENT UNIT 3 Sem. 5 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260627T170000Z
+SUMMARY:[INGLES II] Cuestionario SELF ASSESMENT UNIT 3 Sem. 5 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:91ad015f-d938-411c-9445-1b5b7d04cf62@91ad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DESCRIPTION:Materia: ALGORITMOS Y PSEUDOCÓDIGOS\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTSTART:20260920T230000Z
+SUMMARY:[ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:48d3ef48-57c5-48e1-aeb8-6076752089db@48d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN DEL PARCIAL 1 Sem. 9 LECCIÓN PARCIAL Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260702T004000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DEL PARCIAL 1 Sem. 9 LECCIÓN PARCIAL Bloqueado
+UID:694fd175-6a98-4ad4-bf63-8fb6239e7707@694f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN PARCIAL DEL CORTE 2 Sem. 17 LECCIÓN PARCIAL\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260827T012000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN PARCIAL DEL CORTE 2 Sem. 17 LECCIÓN PARCIAL
+UID:41f62e2a-f78c-4b43-b507-e3cfb1cdeb8f@41f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario LECCIÓN FRECUENTE C1 Sem. 4 LECCIONES FRECUENTES Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260527T023000Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN FRECUENTE C1 Sem. 4 LECCIONES FRECUENTES Bloqueado
+UID:9ff4f54a-1f62-414a-8d7a-70fad7fca377@9ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EVALUACIÓN 01 Sem. 5 LECCIONES FRECUENTES Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTSTART:20260605T003000Z
+SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 01 Sem. 5 LECCIONES FRECUENTES Bloqueado
+UID:f8c28377-9623-4351-a006-5daea15dd45b@f8c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\nTarea/Evaluación: Cuestionario LECCIÓN FORMATIVA P1 Sem. 9 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTSTART:20260625T010000Z
+SUMMARY:[REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FORMATIVA P1 Sem. 9 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
+UID:09ad8661-0ca2-4583-931d-910f89fc2b3c@09ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTSTART:20260507T144500Z
+SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:1d43439d-a74a-4762-8e99-e14b358527e7@1d43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Cuestionario DIAGNOSTIC TEST Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTSTART:20260610T010000Z
+SUMMARY:[INGLES II] Cuestionario DIAGNOSTIC TEST Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:2876f93c-e79b-4503-a689-541fc574cb5b@2876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: CÁLCULO DIFERENCIAL\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTSTART:20260920T230000Z
+SUMMARY:[CÁLCULO DIFERENCIAL] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:22a38953-831d-4a44-af19-96343baf12e1@22a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
 DTSTART:20260913T170000Z
 SUMMARY:[INGLES II] Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual
-UID:825c35d5-558a-475d-9298-84bb97180945@825c.org
+UID:cf7527f2-5d69-43dc-8f55-920d7dbffe43@cf75.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario LECCIÒN PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Bloqueado\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260701T004500Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÒN PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Bloqueado
+UID:d85bb3c7-8a21-4961-ad33-624f3a87b1a6@d85b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: INGLES II\nTarea/Evaluación: Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
 DTSTART:20260920T170000Z
 SUMMARY:[INGLES II] Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual
-UID:5b7f4b57-be56-406d-9b40-9532fe0f645e@5b7f.org
+UID:2ed7e4e4-5bb2-4be8-b1c7-a67ad9da5d67@2ed7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DESCRIPTION:Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\nTarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTSTART:20260920T230000Z
 SUMMARY:[ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:12e06d08-28f0-4a22-b2d3-1a4e6143851b@12e0.org
+UID:a08ad30b-b579-4d00-aac5-6f9c31d8fa1a@a08a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTSTART:20260913T230000Z
+SUMMARY:[FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:30c5be37-28e1-4d8b-af4a-333e12b63d02@30c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Materia: ALGORITMOS Y PSEUDOCÓDIGOS\nTarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\nEstado: PENDIENTE / POR EVALUAR\nEnlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTSTART:20260913T230000Z
+SUMMARY:[ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:9a00282e-f7dd-4311-a2c7-da01f0d73f36@9a00.org
 END:VEVENT
 END:VCALENDAR

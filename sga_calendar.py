@@ -181,9 +181,9 @@ def extraer_actividades_de_materia(driver, materia):
 
     pendientes = []
     filas = soup.find_all("tr")
-
-    # Filtro estricto: solo incluir estados solicitados
-    ESTADOS_PERMITIDOS = ["por evaluar", "pendiente", "sin entregar"]
+    
+    # Estados que representan entrega completada o evaluada
+    estados_completados = ["calificado", "evaluado", "cumplidas", "cumplida"]
 
     for i, fila in enumerate(filas):
         texto_fila = fila.text.strip()
@@ -192,10 +192,15 @@ def extraer_actividades_de_materia(driver, materia):
         if not texto_fila or "cumplimiento de actividades" in texto_lower:
             continue
 
-        # Verificar si la fila contiene exactamente alguno de los estados válidos
-        es_valido = any(estado in texto_lower for estado in ESTADOS_PERMITIDOS)
+        # Si ya fue evaluado/calificado, omitir
+        if any(estado in texto_lower for estado in estados_completados):
+            continue
 
-        if es_valido:
+        # Se considera pendiente si tiene 'sin entregar', 'por evaluar', 'pendiente', 'abierta' o 'cerrada' (sin entregar)
+        es_sin_entregar = "sin entregar" in texto_lower
+        es_pendiente = any(st in texto_lower for st in ["por evaluar", "próximamente", "proximamente", "pendiente", "abierta"])
+
+        if es_sin_entregar or es_pendiente or not any(st in texto_lower for st in estados_completados):
             cols = fila.find_all("td")
             titulo_raw = ""
             if cols:
@@ -220,7 +225,7 @@ def extraer_actividades_de_materia(driver, materia):
                     "fecha_limite": fecha_limite,
                     "url": materia["url_actividades"]
                 })
-                print(f"   ↳ ✅ TAREA INCLUIDA: {titulo_tarea} | Cierra: {fecha_limite}")
+                print(f"   ↳ ✅ TAREA PENDIENTE: {titulo_tarea} | Cierra: {fecha_limite}")
 
     return pendientes
 
@@ -233,7 +238,7 @@ def generar_calendario_ics(lista_tareas):
         event.description = (
             f"Materia: {tarea['materia']}\n"
             f"Tarea/Evaluación: {tarea['titulo']}\n"
-            f"Estado: PENDIENTE / POR EVALUAR / SIN ENTREGAR\n"
+            f"Estado: PENDIENTE / POR EVALUAR\n"
             f"Enlace SGA: {tarea['url']}"
         )
         cal.events.add(event)
@@ -242,7 +247,7 @@ def generar_calendario_ics(lista_tareas):
         f.writelines(cal.serialize_iter())
 
     print(f"\n🚀 ¡PROCESO COMPLETADO EXITOSAMENTE!")
-    print(f"📁 Se generó '{OUTPUT_ICS}' con {len(lista_tareas)} actividad(es) válida(s).")
+    print(f"📁 Se generó '{OUTPUT_ICS}' con {len(lista_tareas)} actividad(es) pendiente(s).")
 
 def main():
     options = webdriver.ChromeOptions()
