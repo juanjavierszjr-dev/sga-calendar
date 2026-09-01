@@ -163,10 +163,10 @@ def determinar_estado_emoji(texto_lower):
         return "🟢", "COMPLETADO / EVALUADO"
     elif "por evaluar" in texto_lower:
         return "🟡", "POR EVALUAR"
-    elif any(st in texto_lower for st in ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]):
+    elif any(st in texto_lower for st in ["sin entregar","Sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]):
         return "🔴", "PENDIENTE / SIN ENTREGAR"
     else:
-        return "⚪", "INFORMACIÓN"
+        return "⚪", "INFORMACIÓN/SIN ESTATUS"
 
 def extraer_actividades_de_materia(driver, materia):
     driver.get(materia['url_actividades'])
