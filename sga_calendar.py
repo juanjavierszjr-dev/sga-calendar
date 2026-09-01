@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 # ==============================================================================
-# CONFIGURACIÓN DE PARÁMETROS
+# CONFIGURACIÓN DE PARÁMETROS (SECRETOS DE GITHUB)
 # ==============================================================================
 USUARIO = os.getenv("SGA_USUARIO", "jsanchezc29")
 CONTRASEÑA = os.getenv("SGA_PASS", "Gabito20151388@**")
@@ -153,20 +153,13 @@ def limpiar_titulo_tarea(texto):
 
 def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
-    
-    # 1. Prioridad para tareas pendientes o sin entregar (incluso si dicen 'cerrada')
     palabras_pendiente = ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]
     if any(st in texto_lower for st in palabras_pendiente):
         return "🔴", "PENDIENTE / SIN ENTREGAR"
-        
-    # 2. Tareas entregadas a la espera de calificación
     elif "por evaluar" in texto_lower:
         return "🟡", "POR EVALUAR"
-        
-    # 3. Tareas completadas o evaluadas (se removió 'cerrada' para evitar falsos positivos)
     elif any(st in texto_lower for st in ["calificado", "calificada", "evaluado", "evaluada", "finalizado", "finalizada", "cumplidas", "cumplida"]):
         return "🟢", "COMPLETADO / EVALUADO"
-        
     else:
         return "⚪", "INFORMACIÓN / SIN ESTATUS"
 
@@ -219,6 +212,14 @@ def extraer_actividades_de_materia(driver, materia):
         fecha_inicio, fecha_cierre = parsear_fechas_rango(texto_fila)
         emoji, estado_str = determinar_estado_emoji(texto_lower)
 
+        # Extracción de la calificación/nota si existe en la fila
+        nota_elem = fila.find(class_=re.compile(r"nota|score|calificacion", re.I)) or fila.find("div", class_=re.compile(r"nota", re.I))
+        nota_texto = ""
+        if nota_elem:
+            txt_nota = nota_elem.text.strip()
+            if any(char.isdigit() for char in txt_nota):
+                nota_texto = re.sub(r"\s+", " ", txt_nota)
+
         if fecha_inicio and fecha_cierre:
             actividades.append({
                 "materia": materia["nombre"],
@@ -227,9 +228,10 @@ def extraer_actividades_de_materia(driver, materia):
                 "fecha_cierre": fecha_cierre,
                 "emoji": emoji,
                 "estado_str": estado_str,
+                "nota": nota_texto,
                 "url": materia["url_actividades"]
             })
-            print(f"   ↳ {emoji} [{estado_str}] {titulo_tarea} | {fecha_inicio.strftime('%d/%m %H:%M')} ➔ {fecha_cierre.strftime('%d/%m %H:%M')}")
+            print(f"   ↳ {emoji} [{estado_str}] {titulo_tarea} | Nota: {nota_texto or 'N/A'}")
 
     return actividades
 
@@ -237,17 +239,20 @@ def generar_calendario_ics(lista_tareas):
     cal = Calendar()
     for tarea in lista_tareas:
         event = Event()
-        # Nombre del evento formateado con emoji de estado
-        event.name = f"{tarea['emoji']} [{tarea['materia']}] {tarea['titulo']}"
         
-        # Asignación del rango de tiempo (Inicio y Fin)
+        nota_titulo = f" [{tarea['nota']}]" if tarea.get("nota") else ""
+        event.name = f"{tarea['emoji']}{nota_titulo} [{tarea['materia']}] {tarea['titulo']}"
+
         event.begin = tarea["fecha_inicio"]
         event.end = tarea["fecha_cierre"]
         
+        linea_nota = f"📊 Nota: {tarea['nota']}\n" if tarea.get("nota") else ""
+
         event.description = (
             f"📌 Materia: {tarea['materia']}\n"
             f"📝 Tarea/Evaluación: {tarea['titulo']}\n"
             f"🏷️ Estado: {tarea['estado_str']}\n"
+            f"{linea_nota}"
             f"🚀 Apertura: {tarea['fecha_inicio'].strftime('%d/%m/%Y %H:%M')}\n"
             f"⏰ Cierre: {tarea['fecha_cierre'].strftime('%d/%m/%Y %H:%M')}\n"
             f"🔗 Enlace SGA: {tarea['url']}"
