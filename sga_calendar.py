@@ -212,13 +212,14 @@ def extraer_actividades_de_materia(driver, materia):
         fecha_inicio, fecha_cierre = parsear_fechas_rango(texto_fila)
         emoji, estado_str = determinar_estado_emoji(texto_lower)
 
-        # Extracción de la calificación/nota si existe en la fila
-        nota_elem = fila.find(class_=re.compile(r"nota|score|calificacion", re.I)) or fila.find("div", class_=re.compile(r"nota", re.I))
+        # 🎯 EXTRACCIÓN PRECISA DE LA NOTA DE LA CELDA 'am-td-nota'
+        nota_elem = fila.find(class_=re.compile(r"am-td-nota|am-nota", re.I))
         nota_texto = ""
         if nota_elem:
-            txt_nota = nota_elem.text.strip()
-            if any(char.isdigit() for char in txt_nota):
-                nota_texto = re.sub(r"\s+", " ", txt_nota)
+            txt_cand = re.sub(r"\s+", " ", nota_elem.text.strip())
+            # Validar que contenga números/calificación y no el título de la tarea
+            if re.search(r"\d+(?:\.\d+)?", txt_cand) and "cuestionario" not in txt_cand.lower() and "tarea" not in txt_cand.lower():
+                nota_texto = txt_cand
 
         if fecha_inicio and fecha_cierre:
             actividades.append({
