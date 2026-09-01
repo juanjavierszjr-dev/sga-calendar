@@ -159,7 +159,7 @@ def determinar_estado_emoji(texto_lower):
         "finalizado", "finalizada", "cumplidas", "cumplida", "cerrada"
     ]
     
-   def determinar_estado_emoji(texto_lower):
+ def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
     
     # 1. Prioridad para tareas pendientes o sin entregar (incluso si dicen 'cerrada')
