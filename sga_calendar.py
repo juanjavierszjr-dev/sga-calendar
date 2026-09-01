@@ -107,43 +107,36 @@ def obtener_lista_materias(driver, wait):
 
     return materias
 
-def parsear_fecha_cierre(texto):
-    try:
-        match = re.search(
-            r"(\d{1,2})\s+de\s+([a-zA-Z]+)\s+de\s+(\d{4})\s+(\d{1,2}:\d{2})",
-            texto,
-            re.IGNORECASE
-        )
-        if match:
-            dia = int(match.group(1))
-            mes_nombre = match.group(2).lower()
-            anio = int(match.group(3))
-            hora_str = match.group(4)
+def parsear_fechas_rango(texto):
+    """Extrae la fecha de Inicio y Cierre de la fila."""
+    fechas = re.findall(
+        r"(\d{1,2})\s+de\s+([a-zA-Z]+)\s+de\s+(\d{4})\s+(\d{1,2}:\d{2})\s*(AM|PM|am|pm)?",
+        texto,
+        re.IGNORECASE
+    )
+    
+    fechas_dt = []
+    for f in fechas:
+        dia, mes_nombre, anio, hora_str, ampm = f
+        mes = MESES_ES.get(mes_nombre.lower(), 1)
+        hora, minuto = map(int, hora_str.split(":"))
 
-            mes = MESES_ES.get(mes_nombre, 1)
-            hora, minuto = map(int, hora_str.split(":"))
-
-            if "pm" in texto.lower() and hora < 12:
+        if ampm:
+            ampm_upper = ampm.upper()
+            if ampm_upper == "PM" and hora < 12:
                 hora += 12
-            elif "am" in texto.lower() and hora == 12:
+            elif ampm_upper == "AM" and hora == 12:
                 hora = 0
 
-            dt_local = datetime(anio, mes, dia, hora, minuto)
-            return TZ_ECUADOR.localize(dt_local)
+        dt_local = datetime(int(anio), mes, int(dia), hora, minuto)
+        fechas_dt.append(TZ_ECUADOR.localize(dt_local))
 
-        match_num = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})", texto)
-        if match_num:
-            dt_local = datetime(
-                int(match_num.group(1)),
-                int(match_num.group(2)),
-                int(match_num.group(3)),
-                int(match_num.group(4)),
-                int(match_num.group(5))
-            )
-            return TZ_ECUADOR.localize(dt_local)
-    except Exception:
-        pass
-    return None
+    if len(fechas_dt) >= 2:
+        return fechas_dt[0], fechas_dt[1]
+    elif len(fechas_dt) == 1:
+        return fechas_dt[0], fechas_dt[0]
+    
+    return None, None
 
 def limpiar_titulo_tarea(texto):
     patrones_limpieza = [
@@ -156,7 +149,18 @@ def limpiar_titulo_tarea(texto):
     for pat in patrones_limpieza:
         resultado = re.sub(pat, "", resultado, flags=re.IGNORECASE)
     resultado = re.sub(r"\s+", " ", resultado).strip()
-    return resultado if len(resultado) > 2 else "Evaluación / Tarea Pendiente"
+    return resultado if len(resultado) > 2 else "Evaluación / Tarea"
+
+def determinar_estado_emoji(texto_lower):
+    """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
+    if any(st in texto_lower for st in ["calificado", "evaluado", "cumplidas", "cumplida"]):
+        return "🟢", "COMPLETADO / EVALUADO"
+    elif "por evaluar" in texto_lower:
+        return "🟡", "POR EVALUAR"
+    elif any(st in texto_lower for st in ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]):
+        return "🔴", "PENDIENTE / SIN ENTREGAR"
+    else:
+        return "⚪", "INFORMACIÓN"
 
 def extraer_actividades_de_materia(driver, materia):
     driver.get(materia['url_actividades'])
@@ -179,11 +183,8 @@ def extraer_actividades_de_materia(driver, materia):
 
     print(f"\n🔍 Entrando a actividades: {materia['nombre']}")
 
-    pendientes = []
+    actividades = []
     filas = soup.find_all("tr")
-    
-    # Estados que representan entrega completada o evaluada
-    estados_completados = ["calificado", "evaluado", "cumplidas", "cumplida"]
 
     for i, fila in enumerate(filas):
         texto_fila = fila.text.strip()
@@ -192,54 +193,56 @@ def extraer_actividades_de_materia(driver, materia):
         if not texto_fila or "cumplimiento de actividades" in texto_lower:
             continue
 
-        # Si ya fue evaluado/calificado, omitir
-        if any(estado in texto_lower for estado in estados_completados):
-            continue
+        cols = fila.find_all("td")
+        titulo_raw = ""
+        if cols:
+            for col in cols:
+                txt = col.text.strip()
+                if txt and not txt.lower().startswith("inicio") and not re.search(r"\d{4}", txt):
+                    titulo_raw = txt
+                    break
+            if not titulo_raw:
+                titulo_raw = cols[0].text.strip()
+        else:
+            titulo_elem = fila.find(["a", "strong", "b", "h5", "h4"])
+            titulo_raw = titulo_elem.text.strip() if titulo_elem else f"Actividad {i+1}"
 
-        # Se considera pendiente si tiene 'sin entregar', 'por evaluar', 'pendiente', 'abierta' o 'cerrada' (sin entregar)
-        es_sin_entregar = "sin entregar" in texto_lower
-        es_pendiente = any(st in texto_lower for st in ["por evaluar", "próximamente", "proximamente", "pendiente", "abierta"])
+        titulo_tarea = limpiar_titulo_tarea(titulo_raw)
+        fecha_inicio, fecha_cierre = parsear_fechas_rango(texto_fila)
+        emoji, estado_str = determinar_estado_emoji(texto_lower)
 
-        if es_sin_entregar or es_pendiente or not any(st in texto_lower for st in estados_completados):
-            cols = fila.find_all("td")
-            titulo_raw = ""
-            if cols:
-                for col in cols:
-                    txt = col.text.strip()
-                    if txt and not txt.lower().startswith("inicio") and not re.search(r"\d{4}", txt):
-                        titulo_raw = txt
-                        break
-                if not titulo_raw:
-                    titulo_raw = cols[0].text.strip()
-            else:
-                titulo_elem = fila.find(["a", "strong", "b", "h5", "h4"])
-                titulo_raw = titulo_elem.text.strip() if titulo_elem else f"Actividad {i+1}"
+        if fecha_inicio and fecha_cierre:
+            actividades.append({
+                "materia": materia["nombre"],
+                "titulo": titulo_tarea,
+                "fecha_inicio": fecha_inicio,
+                "fecha_cierre": fecha_cierre,
+                "emoji": emoji,
+                "estado_str": estado_str,
+                "url": materia["url_actividades"]
+            })
+            print(f"   ↳ {emoji} [{estado_str}] {titulo_tarea} | {fecha_inicio.strftime('%d/%m %H:%M')} ➔ {fecha_cierre.strftime('%d/%m %H:%M')}")
 
-            titulo_tarea = limpiar_titulo_tarea(titulo_raw)
-            fecha_limite = parsear_fecha_cierre(texto_fila)
-
-            if fecha_limite:
-                pendientes.append({
-                    "materia": materia["nombre"],
-                    "titulo": titulo_tarea,
-                    "fecha_limite": fecha_limite,
-                    "url": materia["url_actividades"]
-                })
-                print(f"   ↳ ✅ TAREA PENDIENTE: {titulo_tarea} | Cierra: {fecha_limite}")
-
-    return pendientes
+    return actividades
 
 def generar_calendario_ics(lista_tareas):
     cal = Calendar()
     for tarea in lista_tareas:
         event = Event()
-        event.name = f"[{tarea['materia']}] {tarea['titulo']}"
-        event.begin = tarea["fecha_limite"]
+        # Nombre del evento formateado con emoji de estado
+        event.name = f"{tarea['emoji']} [{tarea['materia']}] {tarea['titulo']}"
+        
+        # Asignación del rango de tiempo (Inicio y Fin)
+        event.begin = tarea["fecha_inicio"]
+        event.end = tarea["fecha_cierre"]
+        
         event.description = (
-            f"Materia: {tarea['materia']}\n"
-            f"Tarea/Evaluación: {tarea['titulo']}\n"
-            f"Estado: PENDIENTE / POR EVALUAR\n"
-            f"Enlace SGA: {tarea['url']}"
+            f"📌 Materia: {tarea['materia']}\n"
+            f"📝 Tarea/Evaluación: {tarea['titulo']}\n"
+            f"🏷️ Estado: {tarea['estado_str']}\n"
+            f"🚀 Apertura: {tarea['fecha_inicio'].strftime('%d/%m/%Y %H:%M')}\n"
+            f"⏰ Cierre: {tarea['fecha_cierre'].strftime('%d/%m/%Y %H:%M')}\n"
+            f"🔗 Enlace SGA: {tarea['url']}"
         )
         cal.events.add(event)
 
@@ -247,7 +250,7 @@ def generar_calendario_ics(lista_tareas):
         f.writelines(cal.serialize_iter())
 
     print(f"\n🚀 ¡PROCESO COMPLETADO EXITOSAMENTE!")
-    print(f"📁 Se generó '{OUTPUT_ICS}' con {len(lista_tareas)} actividad(es) pendiente(s).")
+    print(f"📁 Se generó '{OUTPUT_ICS}' con {len(lista_tareas)} actividad(es) registradas.")
 
 def main():
     options = webdriver.ChromeOptions()
@@ -263,12 +266,12 @@ def main():
         login_sga(driver, wait)
         materias = obtener_lista_materias(driver, wait)
 
-        todas_las_pendientes = []
+        todas_las_actividades = []
         for mat in materias:
-            tareas = extraer_actividades_de_materia(driver, mat)
-            todas_las_pendientes.extend(tareas)
+            actividades = extraer_actividades_de_materia(driver, mat)
+            todas_las_actividades.extend(actividades)
 
-        generar_calendario_ics(todas_las_pendientes)
+        generar_calendario_ics(todas_las_actividades)
 
     except Exception as e:
         print(f"\n❌ Error en la ejecución: {e}")
