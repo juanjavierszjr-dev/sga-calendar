@@ -153,7 +153,13 @@ def limpiar_titulo_tarea(texto):
 
 def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
-    if any(st in texto_lower for st in ["calificado", "evaluado", "cumplidas", "cumplida"]):
+    # Lista ampliada de palabras clave para tareas completadas o calificadas
+    palabras_completado = [
+        "calificado", "calificada", "evaluado", "evaluada", 
+        "finalizado", "finalizada", "cumplidas", "cumplida", "cerrada"
+    ]
+    
+    if any(st in texto_lower for st in palabras_completado):
         return "🟢", "COMPLETADO / EVALUADO"
     elif "por evaluar" in texto_lower:
         return "🟡", "POR EVALUAR"
