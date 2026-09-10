@@ -2,913 +2,913 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260920T230000Z
-DTSTART:20260920T230000Z
-SUMMARY:🔴 [CÁLCULO DIFERENCIAL] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:dd47d360-9acc-4191-8ba2-644a818db82b@dd47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 6 Semana 12 Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 21/07/2026 20:00\n⏰ Cierre: 26/07/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260726T050000Z
-DTSTART:20260722T010000Z
-SUMMARY:🟢 [9.50 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 6 Semana 12 Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:bfbfa5d8-5422-444c-8833-17c320b5b610@bfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Tarea-Sem3-C1 Sem. 3 EXPOSICIONES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 18/05/2026 00:00\n⏰ Cierre: 22/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260523T045900Z
-DTSTART:20260518T050000Z
-SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Tarea-Sem3-C1 Sem. 3 EXPOSICIONES Grupal Bloqueada
-UID:038cff51-3103-49ee-a85f-5734031723f8@038c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea WRITING: SHORT DESCRIPTION Sem. 14 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 03/08/2026 00:00\n⏰ Cierre: 09/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260810T045900Z
-DTSTART:20260803T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea WRITING: SHORT DESCRIPTION Sem. 14 PRÁCTICAS EN CLASE Individual Bloqueada
-UID:07d2319f-e0e7-4f9c-b7db-93daca6c924f@07d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Investigación exploratoria del método científico Sem. 11 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 15/07/2026 22:00\n⏰ Cierre: 21/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260722T040000Z
-DTSTART:20260716T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Investigación exploratoria del método científico Sem. 11 TAREAS Individual Bloqueada
-UID:aa440fc5-eba6-4c57-8fd8-06272b1d1586@aa44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Herramientas Digitales para Diagramas Sem. 10 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 06/07/2026 00:00\n⏰ Cierre: 10/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260711T045900Z
-DTSTART:20260706T050000Z
-SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Herramientas Digitales para Diagramas Sem. 10 TAREAS Grupal Bloqueada
-UID:2b31b0e9-800a-4c25-84e1-9e579f6e6cb9@2b31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea TALLER 3 Sem. 3 TALLERES Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 21/05/2026 17:19\n⏰ Cierre: 21/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260522T040000Z
-DTSTART:20260521T221900Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea TALLER 3 Sem. 3 TALLERES Individual Bloqueada Formativa (Autoevaluación)
-UID:a1ba3d14-d88f-4b82-8c45-45443bdd6644@a1ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EVALUACIÓN 01 Sem. 5 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 04/06/2026 19:30\n⏰ Cierre: 04/06/2026 20:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260605T013000Z
-DTSTART:20260605T003000Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 01 Sem. 5 LECCIONES FRECUENTES Bloqueado
-UID:a2699355-8a62-43c7-9384-3017e63cf5e1@a269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 1 Semana 1 Sem. 1 TALLERES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.90 de 10\n🚀 Apertura: 05/05/2026 22:00\n⏰ Cierre: 17/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260518T040000Z
-DTSTART:20260506T030000Z
-SUMMARY:🟢 [8.90 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 1 Semana 1 Sem. 1 TALLERES Individual Bloqueada
-UID:41bf65c8-a2da-415a-9b2f-c7a8102af02c@41bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Deber recogida de datos Sem. 15 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 12/08/2026 22:00\n⏰ Cierre: 16/08/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260817T040000Z
-DTSTART:20260813T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Deber recogida de datos Sem. 15 TAREAS Grupal Bloqueada
-UID:383a8d16-40c9-46dd-8355-10fa2b99e597@383a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 6 Semana 16 Sem. 16 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:50\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260824T045000Z
-DTSTART:20260817T050000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 6 Semana 16 Sem. 16 PROYECTOS Individual Bloqueada
-UID:06f224c4-8986-4c65-8f82-e22b6f0cccbe@06f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Tecnología y Estructura Organizacional Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 13/07/2026 00:00\n⏰ Cierre: 17/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260718T045900Z
-DTSTART:20260713T050000Z
-SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Tecnología y Estructura Organizacional Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada
-UID:82bff799-8cd6-403c-9b67-b4cb0f70180c@82bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Tipos de tecnología organizacional Sem. 3 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 18/05/2026 00:00\n⏰ Cierre: 24/05/2026 23:55\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260525T045500Z
-DTSTART:20260518T050000Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Tipos de tecnología organizacional Sem. 3 TAREAS Individual Bloqueada
-UID:1568275c-0ec9-4520-a2f3-8084ced9876e@1568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FRECUENTE C1 Sem. 4 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 6.82 de 10\n🚀 Apertura: 26/05/2026 21:30\n⏰ Cierre: 26/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260527T040000Z
-DTSTART:20260527T023000Z
-SUMMARY:🟢 [6.82 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN FRECUENTE C1 Sem. 4 LECCIONES FRECUENTES Bloqueado
-UID:718c6d0b-17a7-45a0-8c3d-ab36d9678c83@718c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FRECUENTE C2 Sem. 13 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.41 de 10\n🚀 Apertura: 28/07/2026 21:00\n⏰ Cierre: 28/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260729T040000Z
-DTSTART:20260729T020000Z
-SUMMARY:🟢 [8.41 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN FRECUENTE C2 Sem. 13 LECCIONES FRECUENTES Bloqueado
-UID:5c6e696a-9980-48e9-9996-2ff42a00b16a@5c6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 07/05/2026 09:45\n⏰ Cierre: 15/05/2026 00:45\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260515T054500Z
-DTSTART:20260507T144500Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
-UID:f8974792-a47b-4c5b-9be4-d2a0dead30c7@f897.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Sem 15_ Gestión del Cambio Tecnológico Sem. 15 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260817T045900Z
-DTSTART:20260810T050000Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Sem 15_ Gestión del Cambio Tecnológico Sem. 15 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
-UID:2c1b0f35-025b-4020-b676-0a9349808c86@2c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA UNIDAD 3 Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.80 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 02/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260802T050000Z
-DTSTART:20260727T050000Z
-SUMMARY:🟢 [9.80 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA UNIDAD 3 Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:cdc77ac1-8d72-4f2d-b67b-37d2516469c7@cdc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea WRITING: TIMELINE Sem. 14 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 03/08/2026 00:00\n⏰ Cierre: 09/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260810T045900Z
-DTSTART:20260803T050000Z
-SUMMARY:🟢 [8.00 de 10] [INGLES II] Tarea WRITING: TIMELINE Sem. 14 PROYECTOS Individual Bloqueada
-UID:7bda0c26-0d82-46cb-b15c-e585e233d508@7bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Técnicas de lecturas Sem. 3 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/05/2026 22:00\n⏰ Cierre: 26/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260527T040000Z
-DTSTART:20260521T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Técnicas de lecturas Sem. 3 PRÁCTICA EXPERIMENTAL Individual Bloqueada
-UID:983de806-317d-411d-82fc-1be356d32a99@983d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Estructuras Secuenciales\, Selectivas y Repetitivas Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 31/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260801T045900Z
-DTSTART:20260727T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Estructuras Secuenciales\, Selectivas y Repetitivas Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:d126f2f2-71e4-460a-8b44-a23b1d3dd56f@d126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 13/09/2026 00:00\n⏰ Cierre: 13/09/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260914T030000Z
-DTSTART:20260913T050000Z
-SUMMARY:🔴 [INGLES II] Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual
-UID:b1a90255-ebe8-47dd-ba50-ff14ccd4e424@b1a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseño de presentación Sem. 1 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 06/05/2026 22:00\n⏰ Cierre: 12/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260513T040000Z
-DTSTART:20260507T030000Z
-SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseño de presentación Sem. 1 TAREAS Individual Bloqueada
-UID:afa603ac-a2d8-486e-97a3-555a87856281@afa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 13/09/2026 18:00\n⏰ Cierre: 13/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260913T230000Z
-DTSTART:20260913T230000Z
-SUMMARY:🔴 [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:fc690b5b-86ec-4168-b069-1bf5afe6e573@fc69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 09/09/2026 19:45\n⏰ Cierre: 09/09/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260910T020000Z
-DTSTART:20260910T004500Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:4e0459b7-1829-497d-8c25-a405cf38e052@4e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF ASSESSMENT UNIT 8 Sem. 16 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260824T045900Z
-DTSTART:20260817T050000Z
-SUMMARY:🟢 [7.00 de 10] [INGLES II] Cuestionario SELF ASSESSMENT UNIT 8 Sem. 16 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:1add06f5-b9b1-4bc9-a044-91f8c2679cf0@1add.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea EVALUACIÓN FRECUENTE DEL SEGUNDO CORTE Sem. 16 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 21/08/2026 19:00\n⏰ Cierre: 21/08/2026 23:31\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260822T043100Z
-DTSTART:20260822T000000Z
-SUMMARY:🟢 [9.00 de 10] [CÁLCULO DIFERENCIAL] Tarea EVALUACIÓN FRECUENTE DEL SEGUNDO CORTE Sem. 16 LECCIONES FRECUENTES Individual Bloqueada
-UID:bb81f4d5-2d59-4f7b-ad1e-146b7d9ee48f@bb81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario LECCION FRECUENTE Sem. 14 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.67 de 10\n🚀 Apertura: 07/08/2026 19:45\n⏰ Cierre: 07/08/2026 20:45\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260808T014500Z
-DTSTART:20260808T004500Z
-SUMMARY:🟢 [8.67 de 10] [CÁLCULO DIFERENCIAL] Cuestionario LECCION FRECUENTE Sem. 14 LECCIONES FRECUENTES Bloqueado
-UID:e9b12b08-79d4-487d-927e-4191bcc83010@e9b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA UNIDAD 4 Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 24/08/2026 00:00\n⏰ Cierre: 30/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260830T050000Z
-DTSTART:20260824T050000Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA UNIDAD 4 Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:9f8ace0a-e8b7-4033-9d7b-e9ac00743977@9f8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea AUTOEVALUACION FORMATIVA Sem. 10 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/07/2026 08:27\n⏰ Cierre: 11/07/2026 08:27\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260711T132700Z
-DTSTART:20260710T132700Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea AUTOEVALUACION FORMATIVA Sem. 10 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)
-UID:dd6b8101-e664-4c4e-93b6-93fe840f7097@dd6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 2 Semana 2 Sem. 2 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.90 de 10\n🚀 Apertura: 12/05/2026 21:00\n⏰ Cierre: 19/05/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260520T000000Z
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 2 Semana 2 Sem. 2 TALLERES Grupal Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 12/05/2026 21:00\n⏰ Cierre: 19/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260520T040000Z
 DTSTART:20260513T020000Z
-SUMMARY:🟢 [8.90 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 2 Semana 2 Sem. 2 PROYECTOS Individual Bloqueada
-UID:d24a7262-683e-4034-a003-8460ea20d224@d24a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Introducción a los límites Sem. 2 TAREAS Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 11/05/2026 00:00\n⏰ Cierre: 17/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260518T045900Z
-DTSTART:20260511T050000Z
-SUMMARY:🟢 [9.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Introducción a los límites Sem. 2 TAREAS Individual Bloqueada Formativa (Autoevaluación)
-UID:b7540db4-857c-473d-906f-6000de665501@b754.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario UNIT 1 SELF ASSESSMENT TEST Sem. 2 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 08/06/2026 00:00\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260615T045900Z
-DTSTART:20260608T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario UNIT 1 SELF ASSESSMENT TEST Sem. 2 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:890a07f1-798e-46a4-b59a-93cd8738bbdb@890a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Análisis del Entorno Tecnológico y sus Características Sem. 14 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.10 de 10\n🚀 Apertura: 03/08/2026 00:00\n⏰ Cierre: 09/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260810T045900Z
-DTSTART:20260803T050000Z
-SUMMARY:🟢 [8.10 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Análisis del Entorno Tecnológico y sus Características Sem. 14 TAREAS Individual Bloqueada
-UID:789048b0-c8ab-4138-b441-cf9213ecd7d9@7890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea TALLER EN CLASE ESTRUCTURA SECUENCIAL Sem. 12 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260725T045900Z
-DTSTART:20260720T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea TALLER EN CLASE ESTRUCTURA SECUENCIAL Sem. 12 TAREAS Individual Bloqueada
-UID:7a78ba06-1920-4714-b1af-85db89c1505e@7a78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Consultar una empresa tecnologica que haya desaparecido por falta de innovación Sem. 2 TALLERES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 11/05/2026 00:00\n⏰ Cierre: 17/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260518T045900Z
-DTSTART:20260511T050000Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Consultar una empresa tecnologica que haya desaparecido por falta de innovación Sem. 2 TALLERES Individual Bloqueada
-UID:4756b511-5748-40f4-9cbe-18e7a1d91645@4756.org
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 2 Semana 2 Sem. 2 TALLERES Grupal Bloqueada Formativa (Autoevaluación)
+UID:9034f51d-b288-4c64-b1d3-1ff1a236eae4@9034.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Examen final Sem. 19 EXAMEN FINAL (Examen Final) Individual\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 07/09/2026 19:45\n⏰ Cierre: 07/09/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
 DTEND:20260908T020000Z
 DTSTART:20260908T004500Z
 SUMMARY:🟢 [9.50 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Examen final Sem. 19 EXAMEN FINAL (Examen Final) Individual
-UID:e7c33c8d-8641-4253-b560-8f89c4dc49d2@e7c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FORMATIVA 2 Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 22/08/2026 09:00\n⏰ Cierre: 26/08/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260827T020000Z
-DTSTART:20260822T140000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FORMATIVA 2 Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
-UID:eecbc5d7-354a-4e9f-8b55-2b0a0aa00237@eecb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea GROUP WORK Sem. 6 TALLERES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 11:11\n⏰ Cierre: 13/06/2026 11:11\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260613T161100Z
-DTSTART:20260610T161100Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea GROUP WORK Sem. 6 TALLERES Grupal Bloqueada
-UID:01dad01e-a21a-434d-b94b-7f1b2703adc6@01da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea La Tecnología de la Información y su Influencia en el Diseño Organizacional Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.80 de 10\n🚀 Apertura: 27/08/2026 00:00\n⏰ Cierre: 27/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260828T045900Z
-DTSTART:20260827T050000Z
-SUMMARY:🟢 [8.80 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea La Tecnología de la Información y su Influencia en el Diseño Organizacional Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:843351d2-ed0f-4ced-839a-8a183f7759ae@8433.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea EVALUACION PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 02/07/2026 17:40\n⏰ Cierre: 05/07/2026 12:55\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260705T175500Z
-DTSTART:20260702T224000Z
-SUMMARY:🟢 [9.50 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea EVALUACION PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Individual Bloqueada
-UID:12afa6ee-1f98-46db-a621-0bf2def4f1d5@12af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260920T230000Z
-DTSTART:20260920T230000Z
-SUMMARY:🔴 [ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:d86b1e35-8975-437e-aef0-15b4046773a2@d86b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea SIMPLE PAST WORKSHOP Sem. 12 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 27/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260728T045900Z
-DTSTART:20260720T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea SIMPLE PAST WORKSHOP Sem. 12 TAREAS Individual Bloqueada
-UID:2a494e66-b671-4d97-847e-43ab9c359455@2a49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 5 Semana 10 Sem. 10 TALLERES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.60 de 10\n🚀 Apertura: 07/07/2026 22:00\n⏰ Cierre: 21/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260722T040000Z
-DTSTART:20260708T030000Z
-SUMMARY:🟢 [9.60 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 5 Semana 10 Sem. 10 TALLERES Grupal Bloqueada
-UID:4ff4f25b-36e1-46ff-b9f5-01abf82ec1b6@4ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN UNIDAD I Sem. 6 LECCIONES FRECUENTES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 08/06/2026 20:30\n⏰ Cierre: 08/06/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260609T033000Z
-DTSTART:20260609T013000Z
-SUMMARY:🟢 [8.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN UNIDAD I Sem. 6 LECCIONES FRECUENTES Grupal Bloqueada
-UID:3c7e0e1f-a7a2-47fb-9335-a8f7b5c9e667@3c7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea PROJECT: MY LAST TRIP Sem. 15 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260817T045900Z
-DTSTART:20260810T050000Z
-SUMMARY:🟢 [7.00 de 10] [INGLES II] Tarea PROJECT: MY LAST TRIP Sem. 15 PROYECTOS Individual Bloqueada
-UID:38a36e84-cbea-4b4e-ac15-5f34764057c5@38a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario DIAGNOSTIC TEST Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 5.45 de 10\n🚀 Apertura: 09/06/2026 08:00\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260615T045900Z
-DTSTART:20260609T130000Z
-SUMMARY:🟢 [5.45 de 10] [INGLES II] Cuestionario DIAGNOSTIC TEST Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
-UID:3acc7762-a6cb-49bb-bba0-0b2b4f738b65@3acc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 4 Semana 11 Sem. 11 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.60 de 10\n🚀 Apertura: 14/07/2026 22:00\n⏰ Cierre: 28/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260729T040000Z
-DTSTART:20260715T030000Z
-SUMMARY:🟢 [9.60 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 4 Semana 11 Sem. 11 TAREAS Individual Bloqueada
-UID:5965a7a3-4dfb-415d-8c7e-7bf2b870a65d@5965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Estructuras de Datos y Arreglos Sem. 16 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260823T050000Z
-DTSTART:20260817T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Estructuras de Datos y Arreglos Sem. 16 PRÁCTICA EXPERIMENTAL Individual Bloqueada
-UID:bcd7b304-e78e-443a-8f68-e08443515664@bcd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FORMATIVA P1 Sem. 9 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 24/06/2026 20:00\n⏰ Cierre: 30/06/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260630T230000Z
-DTSTART:20260625T010000Z
-SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FORMATIVA P1 Sem. 9 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
-UID:6186c9d1-50df-4095-945c-54b362d8d14c@6186.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario UNIT 2 SELF ASSESSMENT Sem. 3 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.00 de 10\n🚀 Apertura: 18/05/2026 00:00\n⏰ Cierre: 28/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260629T045900Z
-DTSTART:20260518T050000Z
-SUMMARY:🟢 [7.00 de 10] [INGLES II] Cuestionario UNIT 2 SELF ASSESSMENT Sem. 3 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:a9ad5332-3153-46e9-926e-1b6f450cc72a@a9ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EVALUACION 1 Sem. 5 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.17 de 10\n🚀 Apertura: 05/06/2026 20:05\n⏰ Cierre: 05/06/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260606T030000Z
-DTSTART:20260606T010500Z
-SUMMARY:🟢 [9.17 de 10] [CÁLCULO DIFERENCIAL] Cuestionario EVALUACION 1 Sem. 5 LECCIONES FRECUENTES Bloqueado
-UID:f1cd71eb-ef69-4851-9fa9-69ba615d6344@f1cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Resumen videos Sem. 11 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 17/07/2026 21:00\n⏰ Cierre: 24/07/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260725T000000Z
-DTSTART:20260718T020000Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Resumen videos Sem. 11 TAREAS Individual Bloqueada
-UID:6550f644-15ce-47d0-b4ec-9828a2628239@6550.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea CLASS REVISION Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 18/06/2026 18:17\n⏰ Cierre: 21/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260622T045900Z
-DTSTART:20260618T231700Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea CLASS REVISION Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
-UID:d0a658f0-3935-4e66-bcaf-c3703fb6c4be@d0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÓN PARCIAL C2 Sem. 17 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.95 de 10\n🚀 Apertura: 25/08/2026 20:15\n⏰ Cierre: 25/08/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260826T040000Z
-DTSTART:20260826T011500Z
-SUMMARY:🟢 [8.95 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN PARCIAL C2 Sem. 17 LECCIÓN PARCIAL Bloqueado
-UID:cc4bc55b-edb8-42aa-bffd-11d8ded1e2ce@cc4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea EJERCICIOS APLICACIONES DE LA DERIVADA Sem. 15 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260817T030000Z
-DTSTART:20260810T050000Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea EJERCICIOS APLICACIONES DE LA DERIVADA Sem. 15 TAREAS Individual Bloqueada
-UID:b96f47a5-b9fc-4b65-a098-8fa8ddeed97d@b96f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 13/09/2026 18:00\n⏰ Cierre: 13/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260913T230000Z
-DTSTART:20260913T230000Z
-SUMMARY:🔴 [CÁLCULO DIFERENCIAL] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:5708f040-0433-4741-8f65-7169d02cd2d1@5708.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Derivadas de funciones por definición Sem. 6 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 08/06/2026 00:00\n⏰ Cierre: 14/06/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260615T030000Z
-DTSTART:20260608T050000Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Derivadas de funciones por definición Sem. 6 TAREAS Individual Bloqueada
-UID:bd50652a-76a5-41e2-8e24-11baf3ec4ffb@bd50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Límites indeterminados de la forma 0/0\, infinitos y al infinito Sem. 3 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 21/05/2026 00:00\n⏰ Cierre: 29/05/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260530T000000Z
-DTSTART:20260521T050000Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Límites indeterminados de la forma 0/0\, infinitos y al infinito Sem. 3 TAREAS Individual Bloqueada
-UID:eea8432c-5d37-423d-882b-6cee69643db9@eea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Lenguaje Algorítmico y Pseudocódigo Sem. 5 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 01/06/2026 20:45\n⏰ Cierre: 01/06/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260602T033000Z
-DTSTART:20260602T014500Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Lenguaje Algorítmico y Pseudocódigo Sem. 5 LECCIONES FRECUENTES Individual Bloqueada
-UID:f99b68ad-b7b7-468b-ba93-455126b67213@f99b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Ética en la investigación científica Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 22/07/2026 22:00\n⏰ Cierre: 28/07/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260728T050000Z
-DTSTART:20260723T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Ética en la investigación científica Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:c9c974c9-8b3c-4592-9f42-e60a5b93d92b@c9c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseño de investigación básica Sem. 16 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 19/08/2026 22:00\n⏰ Cierre: 23/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260823T050000Z
-DTSTART:20260820T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseño de investigación básica Sem. 16 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:5b79cd8a-8cab-4a72-966f-f1fba81454f3@5b79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SUMMATIVE ASSESSMENT UNITS 7 - 8 Sem. 17 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 24/08/2026 00:00\n⏰ Cierre: 29/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260830T045900Z
-DTSTART:20260824T050000Z
-SUMMARY:🟢 [9.50 de 10] [INGLES II] Cuestionario SUMMATIVE ASSESSMENT UNITS 7 - 8 Sem. 17 LECCIÓN PARCIAL Bloqueado
-UID:a70b0a67-b80a-46aa-8417-4733b0cc9418@a70b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EVALUACION (FRECUENTE) Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.52 de 10\n🚀 Apertura: 27/08/2026 20:45\n⏰ Cierre: 27/08/2026 21:15\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260828T021500Z
-DTSTART:20260828T014500Z
-SUMMARY:🟢 [9.52 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACION (FRECUENTE) Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
-UID:5c55132c-066b-406b-8ac1-c6ffc168a2e4@5c55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea EVALUACIÓN SUMATIVA PARTE PRÁCTICA Sem. 14 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 07/08/2026 21:10\n⏰ Cierre: 07/08/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260808T033000Z
-DTSTART:20260808T021000Z
-SUMMARY:🟢 [9.00 de 10] [CÁLCULO DIFERENCIAL] Tarea EVALUACIÓN SUMATIVA PARTE PRÁCTICA Sem. 14 LECCIONES FRECUENTES Individual Bloqueada
-UID:51f392d0-7366-4303-8ab7-de4b46335157@51f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea TALLER 1 Sem. 1 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 04/05/2026 09:48\n⏰ Cierre: 10/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260511T040000Z
-DTSTART:20260504T144800Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea TALLER 1 Sem. 1 TAREAS Grupal Bloqueada
-UID:2ef81eac-79cf-41f0-be4b-c59a0ecc476c@2ef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Comentario sobre la asignatura Sem. 17 PRÁCTICAS FUERA DE CLASE Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 24/08/2026 11:00\n⏰ Cierre: 28/08/2026 17:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260828T220000Z
-DTSTART:20260824T160000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Comentario sobre la asignatura Sem. 17 PRÁCTICAS FUERA DE CLASE Individual Bloqueada Formativa (Autoevaluación)
-UID:6b900262-9f5c-44ca-a62a-6a862e3d3a30@6b90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 5 Semana 14 Sem. 14 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 04/08/2026 20:30\n⏰ Cierre: 11/08/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260812T000000Z
-DTSTART:20260805T013000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 5 Semana 14 Sem. 14 PROYECTOS Individual Bloqueada
-UID:ce93c897-a9ec-453a-985a-96cba17b9073@ce93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 7 Semana 15 Sem. 15 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 11/08/2026 20:30\n⏰ Cierre: 16/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260816T050000Z
-DTSTART:20260812T013000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 7 Semana 15 Sem. 15 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:cc1177c1-8683-439e-ad97-3db876ea6b1c@cc11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.80 de 10\n🚀 Apertura: 08/09/2026 19:45\n⏰ Cierre: 08/09/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260909T030000Z
-DTSTART:20260909T004500Z
-SUMMARY:🟢 [8.80 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
-UID:5119d643-8df1-4f0d-9447-bfe315ff09e6@5119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF ASSESMENT UNIT 3 Sem. 5 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 27/06/2026 00:00\n⏰ Cierre: 28/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260629T045900Z
-DTSTART:20260627T050000Z
-SUMMARY:🟢 [9.00 de 10] [INGLES II] Cuestionario SELF ASSESMENT UNIT 3 Sem. 5 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:37c3d4e5-339d-4754-8413-df82f1567480@37c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea LIVEWORKSHEET: INVITATIONS Sem. 16 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260824T045900Z
-DTSTART:20260817T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea LIVEWORKSHEET: INVITATIONS Sem. 16 PRÁCTICAS EN CLASE Individual Bloqueada
-UID:e9306804-39db-43c5-a356-e71ca70e3d3d@e930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF-ASSESSMENT UNIT 6 Sem. 12 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 27/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260728T045900Z
-DTSTART:20260720T050000Z
-SUMMARY:🟢 [9.00 de 10] [INGLES II] Cuestionario SELF-ASSESSMENT UNIT 6 Sem. 12 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:362e0ba5-5bb4-414f-addf-10f38f615459@362e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Entorno Organizacional Orientado a la Tecnología Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 25/05/2026 00:00\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260615T045900Z
-DTSTART:20260525T050000Z
-SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Entorno Organizacional Orientado a la Tecnología Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:837eaa43-68d7-4b05-a31f-cd16ce4187fe@837e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: POR EVALUAR\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 21/06/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260621T050000Z
-DTSTART:20260615T050000Z
-SUMMARY:🟡 [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:3559e519-8d9c-4f47-8a08-dc255393ec2e@3559.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario ASSESSMENT UNITS 1-2 Sem. 4 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 13/06/2026 09:35\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260615T045900Z
-DTSTART:20260613T143500Z
-SUMMARY:🟢 [9.50 de 10] [INGLES II] Cuestionario ASSESSMENT UNITS 1-2 Sem. 4 LECCIONES FRECUENTES Bloqueado
-UID:30dbd36d-c692-4ca9-80ab-7098dcbe82ee@30db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Sem15-Taller evaluativo (Lección Frecuente) Sem. 15 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260817T045900Z
-DTSTART:20260810T050000Z
-SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Sem15-Taller evaluativo (Lección Frecuente) Sem. 15 LECCIONES FRECUENTES Individual Bloqueada
-UID:e5b18049-7a17-4d65-8f13-630f96d077dc@e5b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 7 Sem. 15 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260816T050000Z
-DTSTART:20260810T050000Z
-SUMMARY:🟢 [8.00 de 10] [INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 7 Sem. 15 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:1fca856f-9bad-4dc7-9b33-f4dc1bb67af4@1fca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea ETAPAS DE SOLUCIÓN DE UN ALGORITMO. Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 25/05/2026 00:00\n⏰ Cierre: 07/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260608T045900Z
-DTSTART:20260525T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea ETAPAS DE SOLUCIÓN DE UN ALGORITMO. Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:5d320fd4-0882-47fc-961a-2ad1a2d1ce04@5d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario ASSESSMENT UNITS 3-4 Sem. 9 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 29/06/2026 00:00\n⏰ Cierre: 04/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260705T045900Z
-DTSTART:20260629T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario ASSESSMENT UNITS 3-4 Sem. 9 LECCIÓN PARCIAL Bloqueado
-UID:19dd60e2-0d0b-4336-a647-2358f24fa67c@19dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN DE LECTURA COMPRENSIVA Sem. 4 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 27/05/2026 21:20\n⏰ Cierre: 27/05/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260528T030000Z
-DTSTART:20260528T022000Z
-SUMMARY:🟢 [8.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DE LECTURA COMPRENSIVA Sem. 4 LECCIONES FRECUENTES Bloqueado
-UID:18a65d4b-2c2c-437e-af64-12707477c411@18a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 5 Sem. 10 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 06/07/2026 00:00\n⏰ Cierre: 12/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260713T045900Z
-DTSTART:20260706T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 5 Sem. 10 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:9e8b00f6-eb8c-4871-82f5-6e8e5ccabc8f@9e8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 4 Semana 6 Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 09/06/2026 19:00\n⏰ Cierre: 14/06/2026 12:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260614T170000Z
-DTSTART:20260610T000000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 4 Semana 6 Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:d77f1535-e1bf-4181-a6bb-5cfbb6152f7d@d77f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Formas de conocimiento Sem. 10 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 08/07/2026 22:00\n⏰ Cierre: 14/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260715T040000Z
-DTSTART:20260709T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Formas de conocimiento Sem. 10 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
-UID:0ae45cc3-2ee5-4a55-90f8-903e652aa3ab@0ae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea EVALUACION REFUERZO Sem. 12 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 12:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260724T170000Z
-DTSTART:20260720T050000Z
-SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea EVALUACION REFUERZO Sem. 12 TAREAS Individual Bloqueada
-UID:06e1f4e6-3960-4465-840d-c8215dcb439d@06e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA LABORATORIO UNIDAD 1 Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 25/05/2026 00:00\n⏰ Cierre: 31/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260601T040000Z
-DTSTART:20260525T050000Z
-SUMMARY:🟢 [8.00 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA LABORATORIO UNIDAD 1 Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:f0338559-1959-478b-955f-e6d58aef3024@f033.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea ESTRUCTURA SELECTIVA Sem. 13 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.50 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 31/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260801T045900Z
-DTSTART:20260727T050000Z
-SUMMARY:🟢 [8.50 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea ESTRUCTURA SELECTIVA Sem. 13 TAREAS Grupal Bloqueada
-UID:ce381982-d79f-4e5c-b227-735459e94662@ce38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260920T230000Z
-DTSTART:20260920T230000Z
-SUMMARY:🔴 [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:01505b37-de06-4e67-abcb-55ee39ef1ed9@0150.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseñar un personaje Sem. 2 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 13/05/2026 21:00\n⏰ Cierre: 19/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260520T040000Z
-DTSTART:20260514T020000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseñar un personaje Sem. 2 TAREAS Individual Bloqueada
-UID:bcb10853-8f77-445c-89c2-694b0cb28e2a@bcb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN DEL PARCIAL 1 Sem. 9 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 01/07/2026 19:40\n⏰ Cierre: 01/07/2026 20:40\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260702T014000Z
-DTSTART:20260702T004000Z
-SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DEL PARCIAL 1 Sem. 9 LECCIÓN PARCIAL Bloqueado
-UID:3e98a60f-2d11-4c15-83a0-dd37368a7506@3e98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN PARCIAL DEL CORTE 2 Sem. 17 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 26/08/2026 20:20\n⏰ Cierre: 26/08/2026 21:21\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260827T022100Z
-DTSTART:20260827T012000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN PARCIAL DEL CORTE 2 Sem. 17 LECCIÓN PARCIAL Bloqueado
-UID:44ebe13a-07ba-4718-a7e9-f72bc3f9f265@44eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea HOMEWORK ASSIGNMENT Sem. 6 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 11:11\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260615T045900Z
-DTSTART:20260610T161100Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea HOMEWORK ASSIGNMENT Sem. 6 PRÁCTICAS EN CLASE Individual Bloqueada
-UID:d32df6b4-c560-4b67-bc0e-f8415167b043@d32d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea PRACTICE ASSIGNMENT Sem. 6 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 11:10\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260615T045900Z
-DTSTART:20260610T161000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea PRACTICE ASSIGNMENT Sem. 6 TAREAS Individual Bloqueada
-UID:6c4fea47-40cd-493f-87f4-e3605f764a72@6c4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea A SHORT STORY Sem. 11 TALLERES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 13/07/2026 00:00\n⏰ Cierre: 19/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260720T045900Z
-DTSTART:20260713T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea A SHORT STORY Sem. 11 TALLERES Grupal Bloqueada
-UID:d20b2526-1707-4dcb-adbf-45c89f55f382@d20b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA UNIDAD 2 Sem. 7 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 14/06/2026 00:00\n⏰ Cierre: 21/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260622T040000Z
-DTSTART:20260614T050000Z
-SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA UNIDAD 2 Sem. 7 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:b4c038c9-b746-4576-8dee-b5f8847aaea3@b4c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 00:00\n⏰ Cierre: 20/09/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260921T030000Z
-DTSTART:20260920T050000Z
-SUMMARY:🔴 [INGLES II] Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual
-UID:d31ad1e6-bb12-4285-a293-035276062f87@d31a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Integración de Word y Mendeley Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 17/06/2026 23:00\n⏰ Cierre: 21/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260622T040000Z
-DTSTART:20260618T040000Z
-SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Integración de Word y Mendeley Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada
-UID:18288eb3-24af-414c-9868-4eb05445f0db@1828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN DIAGRAMAS - FORMATIVA Sem. 7 LECCIONES FRECUENTES Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 21/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260622T045900Z
-DTSTART:20260615T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN DIAGRAMAS - FORMATIVA Sem. 7 LECCIONES FRECUENTES Individual Bloqueada Formativa (Autoevaluación)
-UID:99118e96-ca38-4611-b664-dc67eb03542f@9911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Algoritmos y Diagramas de Flujo Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 19/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260620T045900Z
-DTSTART:20260615T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Algoritmos y Diagramas de Flujo Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada
-UID:f6b8b5eb-f914-4bcb-9f02-d83c92f4e5b3@f6b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260920T230000Z
-DTSTART:20260920T230000Z
-SUMMARY:🔴 [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:c0fc0e5e-8ae0-4f7d-a48f-8e079627e8b0@c0fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea ACTUACIÓN EN CLASE\, DERIVACIÓN DE FUNCIONES PARAMÉTRICAS Sem. 12 PRÁCTICAS EN CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 24/07/2026 00:00\n⏰ Cierre: 24/07/2026 23:50\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260725T045000Z
-DTSTART:20260724T050000Z
-SUMMARY:🟢 [8.00 de 10] [CÁLCULO DIFERENCIAL] Tarea ACTUACIÓN EN CLASE\, DERIVACIÓN DE FUNCIONES PARAMÉTRICAS Sem. 12 PRÁCTICAS EN CLASE Grupal Bloqueada
-UID:df1625a7-2214-43a1-b79b-8f7df6bcefe9@df16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea TALLER 2 Sem. 2 TALLERES Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 14/05/2026 00:00\n⏰ Cierre: 14/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260515T040000Z
-DTSTART:20260514T050000Z
-SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea TALLER 2 Sem. 2 TALLERES Individual Bloqueada Formativa (Autoevaluación)
-UID:f550a134-0acb-4cb9-a087-a0e81677feac@f550.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FRECUENTE Sem. 13 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 29/07/2026 19:55\n⏰ Cierre: 29/07/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260730T020000Z
-DTSTART:20260730T005500Z
-SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FRECUENTE Sem. 13 LECCIONES FRECUENTES Bloqueado
-UID:1be332ad-416b-43ef-a159-80f5243a6378@1be3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario ASSESSMENT UNITS 5 AND 6 Sem. 13 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 02/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260803T045900Z
-DTSTART:20260727T050000Z
-SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario ASSESSMENT UNITS 5 AND 6 Sem. 13 LECCIONES FRECUENTES Bloqueado
-UID:12c5ef2f-bdb1-48c3-8419-e2c0d12500fa@12c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 2 Semana 2 Sem. 2 TALLERES Grupal Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 12/05/2026 21:00\n⏰ Cierre: 19/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260520T040000Z
-DTSTART:20260513T020000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 2 Semana 2 Sem. 2 TALLERES Grupal Bloqueada Formativa (Autoevaluación)
-UID:ce5e518f-825e-4b59-a99a-45f95dd8634f@ce5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 1 Semana 1 Sem. 1 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 05/05/2026 22:00\n⏰ Cierre: 17/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260518T040000Z
-DTSTART:20260506T030000Z
-SUMMARY:🟢 [9.50 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 1 Semana 1 Sem. 1 TAREAS Individual Bloqueada
-UID:36145638-6f57-461f-a2b4-3605b443f712@3614.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Individual Bloqueada Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 04/05/2026 00:00\n⏰ Cierre: 10/05/2026 23:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260511T043000Z
-DTSTART:20260504T050000Z
-SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Individual Bloqueada Diagnóstico
-UID:891a2901-fe1d-4602-9181-102f63087c16@891a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 3 Semana 3 Sem. 3 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 19/05/2026 23:00\n⏰ Cierre: 26/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260527T040000Z
-DTSTART:20260520T040000Z
-SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 3 Semana 3 Sem. 3 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:f443f853-ec32-46cc-be51-fe7e58ee442b@f443.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Sem 11- Prácticas de Conversión Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 13/07/2026 00:00\n⏰ Cierre: 13/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260714T045900Z
-DTSTART:20260713T050000Z
-SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Sem 11- Prácticas de Conversión Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)
-UID:7ced03b2-0d9d-44da-b290-c91e23873556@7ced.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 4 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 28/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
-DTEND:20260629T045900Z
-DTSTART:20260615T050000Z
-SUMMARY:🟢 [8.00 de 10] [INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 4 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
-UID:66246628-0ee0-49d9-a888-d33a81b7827a@6624.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Documento de Microsoft Word Sem. 5 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 03/06/2026 22:00\n⏰ Cierre: 09/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260610T040000Z
-DTSTART:20260604T030000Z
-SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Documento de Microsoft Word Sem. 5 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
-UID:65be0786-73c8-416d-9fad-89c9158f39a5@65be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÒN PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.25 de 10\n🚀 Apertura: 30/06/2026 19:45\n⏰ Cierre: 30/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260701T040000Z
-DTSTART:20260701T004500Z
-SUMMARY:🟢 [9.25 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÒN PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Bloqueado
-UID:5ecf0ba1-cd7f-4704-a719-6b52d24fcba6@5ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario PRUEBA DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 5.45 de 10\n🚀 Apertura: 10/05/2026 10:00\n⏰ Cierre: 12/05/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260513T030000Z
-DTSTART:20260510T150000Z
-SUMMARY:🟢 [5.45 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario PRUEBA DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
-UID:0b8f0b50-055b-411c-8029-641c3df21fd4@0b8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Importancia de la Tecnología en la Organización Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 19/06/2026 00:00\n⏰ Cierre: 22/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260623T045900Z
-DTSTART:20260619T050000Z
-SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Importancia de la Tecnología en la Organización Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
-UID:6f3a4c8c-bca2-44ef-8ca6-674931b6abc7@6f3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea La disrupción tecnológica y la transformación digital Sem. 13 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 01/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260802T045900Z
-DTSTART:20260727T050000Z
-SUMMARY:🟢 [9.50 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea La disrupción tecnológica y la transformación digital Sem. 13 LECCIONES FRECUENTES Individual Bloqueada
-UID:148c6337-4ce1-4441-9544-a1b5f80d7579@148c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN CORTE I Sem. 9 LECCIÓN PARCIAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.01 de 10\n🚀 Apertura: 29/06/2026 20:00\n⏰ Cierre: 29/06/2026 21:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260630T023000Z
-DTSTART:20260630T010000Z
-SUMMARY:🟢 [7.01 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN CORTE I Sem. 9 LECCIÓN PARCIAL Individual Bloqueada
-UID:272baf6a-87ea-4627-b27a-3c134d2f6999@272b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 4 Semana 7 Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 23/06/2026 23:50\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
-DTEND:20260624T045000Z
-DTSTART:20260615T050000Z
-SUMMARY:🟢 [9.50 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 4 Semana 7 Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
-UID:b269ba19-0cc4-4131-abf8-6f27f04d4cfa@b269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EVA DIAG Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 6.00 de 10\n🚀 Apertura: 08/05/2026 20:40\n⏰ Cierre: 08/05/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260509T033000Z
-DTSTART:20260509T014000Z
-SUMMARY:🟢 [6.00 de 10] [CÁLCULO DIFERENCIAL] Cuestionario EVA DIAG Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
-UID:5761d66f-624e-45d1-8602-24a33aebe98c@5761.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Evaluación y Diagnóstico del Entorno Tecnológico (ET) Sem. 16 TAREAS Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260824T045900Z
-DTSTART:20260817T050000Z
-SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Evaluación y Diagnóstico del Entorno Tecnológico (ET) Sem. 16 TAREAS Individual Bloqueada Formativa (Autoevaluación)
-UID:2ef86165-7062-4afa-8760-31096653c337@2ef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Impacto de la Tecnología en las Funciones Empresariales Sem. 12 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 12:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
-DTEND:20260724T170000Z
-DTSTART:20260720T050000Z
-SUMMARY:🟢 [9.50 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Impacto de la Tecnología en las Funciones Empresariales Sem. 12 PRÁCTICA EXPERIMENTAL Individual Bloqueada
-UID:de2afa98-61fc-4033-8a53-58420dd88194@de2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260920T230000Z
-DTSTART:20260920T230000Z
-SUMMARY:🔴 [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
-UID:82575484-3ed0-438f-88b3-7b68c0a955c8@8257.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN 2do Parcial (ESTRUCTURA Y ARREGLOS) Sem. 17 LECCIÓN PARCIAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 24/08/2026 00:00\n⏰ Cierre: 24/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260825T045900Z
-DTSTART:20260824T050000Z
-SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN 2do Parcial (ESTRUCTURA Y ARREGLOS) Sem. 17 LECCIÓN PARCIAL Individual Bloqueada
-UID:05e6af23-b155-45de-a577-eb8793b3b215@05e6.org
+UID:1a283ffb-0882-476f-8ac4-5e77d0b7fa54@1a28.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN DIAGNOSTICA Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 04/05/2026 08:00\n⏰ Cierre: 06/05/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
 DTEND:20260507T020000Z
 DTSTART:20260504T130000Z
 SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DIAGNOSTICA Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
-UID:36fa1a48-3a0c-4dd3-9427-8c83e2d35764@36fa.org
+UID:095b5024-3ad9-4b70-8765-b42b82d49932@095b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea ETAPAS DE SOLUCIÓN DE UN ALGORITMO. Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 25/05/2026 00:00\n⏰ Cierre: 07/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260608T045900Z
+DTSTART:20260525T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea ETAPAS DE SOLUCIÓN DE UN ALGORITMO. Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:81a42718-cada-4933-b51d-d0d970e06e2f@81a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea HOMEWORK ASSIGNMENT Sem. 6 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 11:11\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260615T045900Z
+DTSTART:20260610T161100Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea HOMEWORK ASSIGNMENT Sem. 6 PRÁCTICAS EN CLASE Individual Bloqueada
+UID:209858ab-8b79-46ca-a133-d2a1b649d32a@2098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN DE LECTURA COMPRENSIVA Sem. 4 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 27/05/2026 21:20\n⏰ Cierre: 27/05/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260528T030000Z
+DTSTART:20260528T022000Z
+SUMMARY:🟢 [8.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DE LECTURA COMPRENSIVA Sem. 4 LECCIONES FRECUENTES Bloqueado
+UID:09ee601b-5ba5-4e30-b4e9-b18e65be719b@09ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea TALLER EN CLASE ESTRUCTURA SECUENCIAL Sem. 12 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260725T045900Z
+DTSTART:20260720T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea TALLER EN CLASE ESTRUCTURA SECUENCIAL Sem. 12 TAREAS Individual Bloqueada
+UID:176c0ba8-765a-4827-bab5-597b7b592032@176c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EVALUACION (FRECUENTE) Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.52 de 10\n🚀 Apertura: 27/08/2026 20:45\n⏰ Cierre: 27/08/2026 21:15\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260828T021500Z
+DTSTART:20260828T014500Z
+SUMMARY:🟢 [9.52 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACION (FRECUENTE) Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
+UID:af8755a9-f2b5-4e72-8967-6651cde42e4f@af87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260920T230000Z
+DTSTART:20260920T230000Z
+SUMMARY:🔴 [CÁLCULO DIFERENCIAL] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:ceb6af0c-b33f-4834-bd41-9250c4397424@ceb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Tecnología y Estructura Organizacional Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 13/07/2026 00:00\n⏰ Cierre: 17/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260718T045900Z
+DTSTART:20260713T050000Z
+SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Tecnología y Estructura Organizacional Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada
+UID:efdbc4b4-bb6b-49f2-b5ed-93d950d9001d@efdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 09/09/2026 19:45\n⏰ Cierre: 09/09/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260910T020000Z
+DTSTART:20260910T004500Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:77734ec8-c8c5-4fc4-a452-0bc5935faf32@7773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea GROUP WORK Sem. 6 TALLERES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 11:11\n⏰ Cierre: 13/06/2026 11:11\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260613T161100Z
+DTSTART:20260610T161100Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea GROUP WORK Sem. 6 TALLERES Grupal Bloqueada
+UID:7b9c27cc-c27f-47b4-a9ac-d33440431547@7b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea LIVEWORKSHEET: INVITATIONS Sem. 16 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260824T045900Z
+DTSTART:20260817T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea LIVEWORKSHEET: INVITATIONS Sem. 16 PRÁCTICAS EN CLASE Individual Bloqueada
+UID:784ef409-bffe-4028-93e8-5c6cb9e158c6@784e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA UNIDAD 2 Sem. 7 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 14/06/2026 00:00\n⏰ Cierre: 21/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260622T040000Z
+DTSTART:20260614T050000Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA UNIDAD 2 Sem. 7 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:5f0a8493-db45-4c36-b5f0-fbd4474dfa88@5f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea WRITING: SHORT DESCRIPTION Sem. 14 PRÁCTICAS EN CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 03/08/2026 00:00\n⏰ Cierre: 09/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260810T045900Z
+DTSTART:20260803T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea WRITING: SHORT DESCRIPTION Sem. 14 PRÁCTICAS EN CLASE Individual Bloqueada
+UID:f23092b6-771c-4ba6-a095-2b1ab5549ce3@f230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN UNIDAD I Sem. 6 LECCIONES FRECUENTES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 08/06/2026 20:30\n⏰ Cierre: 08/06/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260609T033000Z
+DTSTART:20260609T013000Z
+SUMMARY:🟢 [8.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN UNIDAD I Sem. 6 LECCIONES FRECUENTES Grupal Bloqueada
+UID:a2a6d309-fa04-4851-b0c1-bcda417d021d@a2a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FORMATIVA 2 Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 22/08/2026 09:00\n⏰ Cierre: 26/08/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260827T020000Z
+DTSTART:20260822T140000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FORMATIVA 2 Sem. 17 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
+UID:ac283740-a3c2-4156-9a54-6807cb4d72c7@ac28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea PRACTICE ASSIGNMENT Sem. 6 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 11:10\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260615T045900Z
+DTSTART:20260610T161000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea PRACTICE ASSIGNMENT Sem. 6 TAREAS Individual Bloqueada
+UID:0ef10b6e-b665-4313-b750-eb0d9522b454@0ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF ASSESSMENT UNIT 8 Sem. 16 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260824T045900Z
+DTSTART:20260817T050000Z
+SUMMARY:🟢 [7.00 de 10] [INGLES II] Cuestionario SELF ASSESSMENT UNIT 8 Sem. 16 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:3bcf0323-f56b-40a2-b78f-ee43d07cd3f1@3bcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 5 Semana 14 Sem. 14 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 04/08/2026 20:30\n⏰ Cierre: 11/08/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260812T000000Z
+DTSTART:20260805T013000Z
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 5 Semana 14 Sem. 14 PROYECTOS Individual Bloqueada
+UID:1116b157-4389-480d-bd24-318f52faa59c@1116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN PARCIAL DEL CORTE 2 Sem. 17 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 26/08/2026 20:20\n⏰ Cierre: 26/08/2026 21:21\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260827T022100Z
+DTSTART:20260827T012000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN PARCIAL DEL CORTE 2 Sem. 17 LECCIÓN PARCIAL Bloqueado
+UID:7c5a7d3e-505a-4533-b104-ab8d3dc9d022@7c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF ASSESMENT UNIT 3 Sem. 5 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 27/06/2026 00:00\n⏰ Cierre: 28/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260629T045900Z
+DTSTART:20260627T050000Z
+SUMMARY:🟢 [9.00 de 10] [INGLES II] Cuestionario SELF ASSESMENT UNIT 3 Sem. 5 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:36e767f7-e6e3-43c4-884e-cedee0ea89c0@36e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 3 Semana 3 Sem. 3 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 19/05/2026 23:00\n⏰ Cierre: 26/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260527T040000Z
+DTSTART:20260520T040000Z
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 3 Semana 3 Sem. 3 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:8963131e-116e-4b28-bcc7-83dda075e822@8963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea La disrupción tecnológica y la transformación digital Sem. 13 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 01/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260802T045900Z
+DTSTART:20260727T050000Z
+SUMMARY:🟢 [9.50 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea La disrupción tecnológica y la transformación digital Sem. 13 LECCIONES FRECUENTES Individual Bloqueada
+UID:f04154e2-3fd7-4d2d-9f45-4011f6ff61a8@f041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Sem 11- Prácticas de Conversión Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 13/07/2026 00:00\n⏰ Cierre: 13/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260714T045900Z
+DTSTART:20260713T050000Z
+SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Sem 11- Prácticas de Conversión Sem. 11 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)
+UID:1a1da6b3-8740-4ec2-a9bd-2d1b527ba73d@1a1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Estructuras Secuenciales Sem. 12 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
 DTEND:20260725T045900Z
 DTSTART:20260720T050000Z
 SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Estructuras Secuenciales Sem. 12 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
-UID:5aed0f92-2ff8-401f-aa5f-0b8e0423526c@5aed.org
+UID:bc8c9dd8-6f75-4f91-a137-a6362755bb2a@bc8c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EJERCICIOS DE ALGORITMOS - DIAGRAMAS Sem. 2 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 11/05/2026 00:00\n⏰ Cierre: 15/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
-DTEND:20260516T045900Z
-DTSTART:20260511T050000Z
-SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EJERCICIOS DE ALGORITMOS - DIAGRAMAS Sem. 2 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
-UID:66a331a3-5a18-4393-9777-b448f19a85a1@66a3.org
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea EVALUACIÓN FRECUENTE DEL SEGUNDO CORTE Sem. 16 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 21/08/2026 19:00\n⏰ Cierre: 21/08/2026 23:31\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260822T043100Z
+DTSTART:20260822T000000Z
+SUMMARY:🟢 [9.00 de 10] [CÁLCULO DIFERENCIAL] Tarea EVALUACIÓN FRECUENTE DEL SEGUNDO CORTE Sem. 16 LECCIONES FRECUENTES Individual Bloqueada
+UID:2cd5656b-2414-4ea9-ac3c-1fb065cb676c@2cd5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseño de investigaciòn Sem. 14 TALLERES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 06/08/2026 09:00\n⏰ Cierre: 11/08/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260812T040000Z
-DTSTART:20260806T140000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseño de investigaciòn Sem. 14 TALLERES Individual Bloqueada
-UID:718606fe-652f-41bc-bebe-88a75bae87b0@7186.org
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 4 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 28/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260629T045900Z
+DTSTART:20260615T050000Z
+SUMMARY:🟢 [8.00 de 10] [INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 4 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:3d60728e-b288-4ebf-ace4-b0b67c241f06@3d60.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Documento en latex Sem. 6 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 22:00\n⏰ Cierre: 14/06/2026 23:53\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
-DTEND:20260615T045300Z
-DTSTART:20260611T030000Z
-SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Documento en latex Sem. 6 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
-UID:a3b349ea-4900-4bbf-bef7-8c36b22f2926@a3b3.org
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Tipos de tecnología organizacional Sem. 3 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 18/05/2026 00:00\n⏰ Cierre: 24/05/2026 23:55\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260525T045500Z
+DTSTART:20260518T050000Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Tipos de tecnología organizacional Sem. 3 TAREAS Individual Bloqueada
+UID:b61f3888-03f2-4ace-a9f7-513c8e6f420c@b61f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EVALUACIÓN DE CORTE Sem. 9 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.55 de 10\n🚀 Apertura: 03/07/2026 21:00\n⏰ Cierre: 03/07/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
-DTEND:20260704T033000Z
-DTSTART:20260704T020000Z
-SUMMARY:🟢 [9.55 de 10] [CÁLCULO DIFERENCIAL] Cuestionario EVALUACIÓN DE CORTE Sem. 9 LECCIONES FRECUENTES Bloqueado
-UID:88434d85-3261-4687-92dd-c74f0fe12eef@8843.org
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea AUTOEVALUACION FORMATIVA Sem. 10 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/07/2026 08:27\n⏰ Cierre: 11/07/2026 08:27\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260711T132700Z
+DTSTART:20260710T132700Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea AUTOEVALUACION FORMATIVA Sem. 10 PRÁCTICAS EN CLASE Individual Bloqueada Formativa (Autoevaluación)
+UID:ef68be3e-c88d-4b79-8894-57eaac59d563@ef68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 4 Semana 6 Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 09/06/2026 19:00\n⏰ Cierre: 14/06/2026 12:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260614T170000Z
+DTSTART:20260610T000000Z
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 4 Semana 6 Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:5a09b167-1f56-4f9d-8ff7-84a1e4e75c50@5a09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Deber recogida de datos Sem. 15 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 12/08/2026 22:00\n⏰ Cierre: 16/08/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260817T040000Z
+DTSTART:20260813T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Deber recogida de datos Sem. 15 TAREAS Grupal Bloqueada
+UID:64355ed3-18bd-4105-8aed-b0f511c6d6cc@6435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 1 Semana 1 Sem. 1 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 05/05/2026 22:00\n⏰ Cierre: 17/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260518T040000Z
+DTSTART:20260506T030000Z
+SUMMARY:🟢 [9.50 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 1 Semana 1 Sem. 1 TAREAS Individual Bloqueada
+UID:773dfe19-59e6-4a24-81fb-d75808609bf2@773d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Entorno Organizacional Orientado a la Tecnología Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 25/05/2026 00:00\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260615T045900Z
+DTSTART:20260525T050000Z
+SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Entorno Organizacional Orientado a la Tecnología Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:76b39fe2-44a8-455a-bdd1-5eaaa2d2a813@76b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseño de investigación básica Sem. 16 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 19/08/2026 22:00\n⏰ Cierre: 23/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260823T050000Z
+DTSTART:20260820T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseño de investigación básica Sem. 16 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:8a129241-1db3-4d55-b2d6-eb594f283521@8a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 7 Semana 15 Sem. 15 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 11/08/2026 20:30\n⏰ Cierre: 16/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260816T050000Z
+DTSTART:20260812T013000Z
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 7 Semana 15 Sem. 15 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:309c2a52-acb5-4ef3-975c-ec3aa5c62d75@309c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Sem15-Taller evaluativo (Lección Frecuente) Sem. 15 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260817T045900Z
+DTSTART:20260810T050000Z
+SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Sem15-Taller evaluativo (Lección Frecuente) Sem. 15 LECCIONES FRECUENTES Individual Bloqueada
+UID:7fe84361-3b43-4bc9-989f-07248126312a@7fe8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Sem 10 - Trabajo en equipo Sem. 10 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 06/07/2026 00:00\n⏰ Cierre: 12/07/2026 15:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
 DTEND:20260712T200000Z
 DTSTART:20260706T050000Z
 SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Sem 10 - Trabajo en equipo Sem. 10 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
-UID:2c8184e9-5a4e-4a1c-a25a-7c6161666cca@2c81.org
+UID:693f1d6a-1bf2-4c8d-aa9a-e3ce09beb9be@693f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario UNIT 1 SELF ASSESSMENT TEST Sem. 2 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 08/06/2026 00:00\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260615T045900Z
+DTSTART:20260608T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario UNIT 1 SELF ASSESSMENT TEST Sem. 2 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:f2dd8209-a402-4499-b69e-dda8823239ed@f2dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260920T230000Z
+DTSTART:20260920T230000Z
+SUMMARY:🔴 [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:6bc085db-5dea-4ccc-9898-cc10b4e60d45@6bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Algoritmos y Diagramas de Flujo Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 19/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260620T045900Z
+DTSTART:20260615T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Algoritmos y Diagramas de Flujo Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada
+UID:8d95e017-d7c7-46e0-925f-20501887ca33@8d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EVALUACIÓN DE CORTE Sem. 9 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.55 de 10\n🚀 Apertura: 03/07/2026 21:00\n⏰ Cierre: 03/07/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260704T033000Z
+DTSTART:20260704T020000Z
+SUMMARY:🟢 [9.55 de 10] [CÁLCULO DIFERENCIAL] Cuestionario EVALUACIÓN DE CORTE Sem. 9 LECCIONES FRECUENTES Bloqueado
+UID:f466e3a7-f7ed-4373-9115-2b0709a032b2@f466.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.80 de 10\n🚀 Apertura: 08/09/2026 19:45\n⏰ Cierre: 08/09/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260909T030000Z
+DTSTART:20260909T004500Z
+SUMMARY:🟢 [8.80 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:b0e63c9c-f9c8-4365-860f-65931fc8a725@b0e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FORMATIVA P1 Sem. 9 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 24/06/2026 20:00\n⏰ Cierre: 30/06/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260630T230000Z
+DTSTART:20260625T010000Z
+SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FORMATIVA P1 Sem. 9 LECCIÓN PARCIAL Bloqueado Formativa (Autoevaluación)
+UID:53b3f837-35ba-4d5f-8f9a-1dc2d3ad56c0@53b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea A SHORT STORY Sem. 11 TALLERES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 13/07/2026 00:00\n⏰ Cierre: 19/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260720T045900Z
+DTSTART:20260713T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea A SHORT STORY Sem. 11 TALLERES Grupal Bloqueada
+UID:92e3f5f4-e6ed-4402-bfd8-63a3c392fe23@92e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA LABORATORIO UNIDAD 1 Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 25/05/2026 00:00\n⏰ Cierre: 31/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260601T040000Z
+DTSTART:20260525T050000Z
+SUMMARY:🟢 [8.00 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA LABORATORIO UNIDAD 1 Sem. 4 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:41d8415f-2200-427c-a4e2-2cd4f9368d83@41d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Documento de Microsoft Word Sem. 5 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 03/06/2026 22:00\n⏰ Cierre: 09/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260610T040000Z
+DTSTART:20260604T030000Z
+SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Documento de Microsoft Word Sem. 5 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
+UID:e04f588e-f73a-4c95-9b0b-45a5ab2b23ef@e04f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 2 Semana 2 Sem. 2 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.90 de 10\n🚀 Apertura: 12/05/2026 21:00\n⏰ Cierre: 19/05/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260520T000000Z
+DTSTART:20260513T020000Z
+SUMMARY:🟢 [8.90 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 2 Semana 2 Sem. 2 PROYECTOS Individual Bloqueada
+UID:0b7e99d7-3f5b-4451-92ec-5415c8ebb0c7@0b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA UNIDAD 4 Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 24/08/2026 00:00\n⏰ Cierre: 30/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260830T050000Z
+DTSTART:20260824T050000Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA UNIDAD 4 Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:e05ed3fc-25f6-496e-80ec-69f089e9cea5@e05e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea EVALUACION PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 02/07/2026 17:40\n⏰ Cierre: 05/07/2026 12:55\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260705T175500Z
+DTSTART:20260702T224000Z
+SUMMARY:🟢 [9.50 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea EVALUACION PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Individual Bloqueada
+UID:97391a76-56b0-4115-82c0-8fa7bf9e85a1@9739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseño de presentación Sem. 1 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 06/05/2026 22:00\n⏰ Cierre: 12/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260513T040000Z
+DTSTART:20260507T030000Z
+SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseño de presentación Sem. 1 TAREAS Individual Bloqueada
+UID:c1e6b809-271c-48c1-a6cd-e9f5bbe394fc@c1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Introducción a los límites Sem. 2 TAREAS Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 11/05/2026 00:00\n⏰ Cierre: 17/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260518T045900Z
+DTSTART:20260511T050000Z
+SUMMARY:🟢 [9.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Introducción a los límites Sem. 2 TAREAS Individual Bloqueada Formativa (Autoevaluación)
+UID:74ecf690-43ef-4c52-95b4-bcb109c3e3a2@74ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario ASSESSMENT UNITS 5 AND 6 Sem. 13 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 02/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260803T045900Z
+DTSTART:20260727T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario ASSESSMENT UNITS 5 AND 6 Sem. 13 LECCIONES FRECUENTES Bloqueado
+UID:de9684a7-14f1-498d-aff0-c81b4eec04b4@de96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Documento en latex Sem. 6 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/06/2026 22:00\n⏰ Cierre: 14/06/2026 23:53\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260615T045300Z
+DTSTART:20260611T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Documento en latex Sem. 6 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
+UID:44b0bb71-43ac-432a-a6e8-af77d923aea3@44b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Impacto de la Tecnología en las Funciones Empresariales Sem. 12 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 12:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260724T170000Z
+DTSTART:20260720T050000Z
+SUMMARY:🟢 [9.50 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Impacto de la Tecnología en las Funciones Empresariales Sem. 12 PRÁCTICA EXPERIMENTAL Individual Bloqueada
+UID:b4facf07-5525-478c-842d-a8f212cb247e@b4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea WRITING: TIMELINE Sem. 14 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 03/08/2026 00:00\n⏰ Cierre: 09/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260810T045900Z
+DTSTART:20260803T050000Z
+SUMMARY:🟢 [8.00 de 10] [INGLES II] Tarea WRITING: TIMELINE Sem. 14 PROYECTOS Individual Bloqueada
+UID:da076109-fe03-42a1-89e4-ed254af9de36@da07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea CLASS REVISION Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 18/06/2026 18:17\n⏰ Cierre: 21/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260622T045900Z
+DTSTART:20260618T231700Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea CLASS REVISION Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
+UID:ac90baa0-5f6a-489f-ad59-5179c28587d8@ac90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EJERCICIOS DE ALGORITMOS - DIAGRAMAS Sem. 2 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 11/05/2026 00:00\n⏰ Cierre: 15/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260516T045900Z
+DTSTART:20260511T050000Z
+SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EJERCICIOS DE ALGORITMOS - DIAGRAMAS Sem. 2 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
+UID:632461c3-f235-4d70-aeb8-651cb27956c3@6324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Tarea-Sem3-C1 Sem. 3 EXPOSICIONES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 18/05/2026 00:00\n⏰ Cierre: 22/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260523T045900Z
+DTSTART:20260518T050000Z
+SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Tarea-Sem3-C1 Sem. 3 EXPOSICIONES Grupal Bloqueada
+UID:047ae7c4-4d5c-4ca7-9f91-11ea037fabdc@047a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260920T230000Z
+DTSTART:20260920T230000Z
+SUMMARY:🔴 [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:9d3d60f1-fbce-46e4-a1d4-092fabc5ad34@9d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 7 Sem. 15 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260816T050000Z
+DTSTART:20260810T050000Z
+SUMMARY:🟢 [8.00 de 10] [INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 7 Sem. 15 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:0f6f7196-7294-4822-ba71-70c9ed317fa5@0f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Sem 15_ Gestión del Cambio Tecnológico Sem. 15 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260817T045900Z
+DTSTART:20260810T050000Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Sem 15_ Gestión del Cambio Tecnológico Sem. 15 PRÁCTICAS FUERA DE CLASE Grupal Bloqueada
+UID:662640d7-9091-4346-819a-d02e2ba7a9f4@6626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN 2do Parcial (ESTRUCTURA Y ARREGLOS) Sem. 17 LECCIÓN PARCIAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 24/08/2026 00:00\n⏰ Cierre: 24/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260825T045900Z
+DTSTART:20260824T050000Z
+SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN 2do Parcial (ESTRUCTURA Y ARREGLOS) Sem. 17 LECCIÓN PARCIAL Individual Bloqueada
+UID:bebcac1b-06b0-4538-b5ba-1951f709d7b9@bebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea ESTRUCTURA SELECTIVA Sem. 13 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.50 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 31/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260801T045900Z
+DTSTART:20260727T050000Z
+SUMMARY:🟢 [8.50 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea ESTRUCTURA SELECTIVA Sem. 13 TAREAS Grupal Bloqueada
+UID:5b9f3c65-8c58-468d-b64c-5d7738a4a7d0@5b9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario PRUEBA DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 5.45 de 10\n🚀 Apertura: 10/05/2026 10:00\n⏰ Cierre: 12/05/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260513T030000Z
+DTSTART:20260510T150000Z
+SUMMARY:🟢 [5.45 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario PRUEBA DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:88b15682-5068-4160-ba98-161bccf1925f@88b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FRECUENTE C1 Sem. 4 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 6.82 de 10\n🚀 Apertura: 26/05/2026 21:30\n⏰ Cierre: 26/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260527T040000Z
+DTSTART:20260527T023000Z
+SUMMARY:🟢 [6.82 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN FRECUENTE C1 Sem. 4 LECCIONES FRECUENTES Bloqueado
+UID:9ac31c90-52b0-43ba-81d2-e669fe56ca78@9ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN DEL PARCIAL 1 Sem. 9 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 01/07/2026 19:40\n⏰ Cierre: 01/07/2026 20:40\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260702T014000Z
+DTSTART:20260702T004000Z
+SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN DEL PARCIAL 1 Sem. 9 LECCIÓN PARCIAL Bloqueado
+UID:32a127a4-8a46-4591-becf-09e605a81f9f@32a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FRECUENTE C2 Sem. 13 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.41 de 10\n🚀 Apertura: 28/07/2026 21:00\n⏰ Cierre: 28/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260729T040000Z
+DTSTART:20260729T020000Z
+SUMMARY:🟢 [8.41 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN FRECUENTE C2 Sem. 13 LECCIONES FRECUENTES Bloqueado
+UID:6fdb28e7-fd0c-4072-8e82-762031e9f2b6@6fdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 4 Semana 7 Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 23/06/2026 23:50\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260624T045000Z
+DTSTART:20260615T050000Z
+SUMMARY:🟢 [9.50 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 4 Semana 7 Sem. 7 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
+UID:4bcc7a9c-1b07-43b6-a160-8b32dc19964f@4bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 5 Semana 10 Sem. 10 TALLERES Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.60 de 10\n🚀 Apertura: 07/07/2026 22:00\n⏰ Cierre: 21/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260722T040000Z
+DTSTART:20260708T030000Z
+SUMMARY:🟢 [9.60 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 5 Semana 10 Sem. 10 TALLERES Grupal Bloqueada
+UID:8dd74804-0d65-4529-be0b-8efcf29949cc@8dd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 13/09/2026 18:00\n⏰ Cierre: 13/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260913T230000Z
+DTSTART:20260913T230000Z
+SUMMARY:🔴 [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:7f63e5f1-bd37-4db2-bfac-9459fc95cfe6@7f63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Análisis del Entorno Tecnológico y sus Características Sem. 14 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.10 de 10\n🚀 Apertura: 03/08/2026 00:00\n⏰ Cierre: 09/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260810T045900Z
+DTSTART:20260803T050000Z
+SUMMARY:🟢 [8.10 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Análisis del Entorno Tecnológico y sus Características Sem. 14 TAREAS Individual Bloqueada
+UID:77a8d8c9-41eb-495f-9a33-ade81ee266c8@77a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Lenguaje Algorítmico y Pseudocódigo Sem. 5 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 01/06/2026 20:45\n⏰ Cierre: 01/06/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260602T033000Z
+DTSTART:20260602T014500Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Lenguaje Algorítmico y Pseudocódigo Sem. 5 LECCIONES FRECUENTES Individual Bloqueada
+UID:2461c18d-97a7-4189-9570-171b2e1358b0@2461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Límites indeterminados de la forma 0/0\, infinitos y al infinito Sem. 3 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 21/05/2026 00:00\n⏰ Cierre: 29/05/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260530T000000Z
+DTSTART:20260521T050000Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Límites indeterminados de la forma 0/0\, infinitos y al infinito Sem. 3 TAREAS Individual Bloqueada
+UID:793ffd31-2e86-44ad-b4ec-e31cbba12228@793f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Estructuras de Datos y Arreglos Sem. 16 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260823T050000Z
+DTSTART:20260817T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Estructuras de Datos y Arreglos Sem. 16 PRÁCTICA EXPERIMENTAL Individual Bloqueada
+UID:ff40ca91-a2ea-488e-acf1-f94e2a0b398d@ff40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Importancia de la Tecnología en la Organización Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 19/06/2026 00:00\n⏰ Cierre: 22/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260623T045900Z
+DTSTART:20260619T050000Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Importancia de la Tecnología en la Organización Sem. 6 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:a6b25bab-9958-4561-9242-ef7790a9daa2@a6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario LECCION FRECUENTE Sem. 14 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.67 de 10\n🚀 Apertura: 07/08/2026 19:45\n⏰ Cierre: 07/08/2026 20:45\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260808T014500Z
+DTSTART:20260808T004500Z
+SUMMARY:🟢 [8.67 de 10] [CÁLCULO DIFERENCIAL] Cuestionario LECCION FRECUENTE Sem. 14 LECCIONES FRECUENTES Bloqueado
+UID:27c96951-cd6b-4cc1-9446-e9848a53129a@27c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EVALUACION 1 Sem. 5 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.17 de 10\n🚀 Apertura: 05/06/2026 20:05\n⏰ Cierre: 05/06/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260606T030000Z
+DTSTART:20260606T010500Z
+SUMMARY:🟢 [9.17 de 10] [CÁLCULO DIFERENCIAL] Cuestionario EVALUACION 1 Sem. 5 LECCIONES FRECUENTES Bloqueado
+UID:ccfc9671-4ad0-4fd6-85e8-47964c8bf53f@ccfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea TALLER 1 Sem. 1 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 04/05/2026 09:48\n⏰ Cierre: 10/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260511T040000Z
+DTSTART:20260504T144800Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea TALLER 1 Sem. 1 TAREAS Grupal Bloqueada
+UID:0070d4e7-69a4-4b62-82d2-bd389a50804f@0070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Cuestionario LECCIÓN FRECUENTE Sem. 13 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 29/07/2026 19:55\n⏰ Cierre: 29/07/2026 21:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260730T020000Z
+DTSTART:20260730T005500Z
+SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Cuestionario LECCIÓN FRECUENTE Sem. 13 LECCIONES FRECUENTES Bloqueado
+UID:c1c95ca7-2f3f-4cc0-b993-af7513a597d9@c1c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea La Tecnología de la Información y su Influencia en el Diseño Organizacional Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.80 de 10\n🚀 Apertura: 27/08/2026 00:00\n⏰ Cierre: 27/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260828T045900Z
+DTSTART:20260827T050000Z
+SUMMARY:🟢 [8.80 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea La Tecnología de la Información y su Influencia en el Diseño Organizacional Sem. 17 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:3d1c1ce7-1fc7-400e-b459-16cb2093a28b@3d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Ética en la investigación científica Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 22/07/2026 22:00\n⏰ Cierre: 28/07/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260728T050000Z
+DTSTART:20260723T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Ética en la investigación científica Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:1d310c30-778d-4bd9-b1dc-816a7d7d17f9@1d31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 07/05/2026 09:45\n⏰ Cierre: 15/05/2026 00:45\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260515T054500Z
+DTSTART:20260507T144500Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:e025777a-310a-4f60-9c65-b8da0c277707@e025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 1 Semana 1 Sem. 1 TALLERES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.90 de 10\n🚀 Apertura: 05/05/2026 22:00\n⏰ Cierre: 17/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260518T040000Z
+DTSTART:20260506T030000Z
+SUMMARY:🟢 [8.90 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 1 Semana 1 Sem. 1 TALLERES Individual Bloqueada
+UID:3bee106a-ba31-44b0-817a-cd31d10174e6@3bee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea ACTUACIÓN EN CLASE\, DERIVACIÓN DE FUNCIONES PARAMÉTRICAS Sem. 12 PRÁCTICAS EN CLASE Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.00 de 10\n🚀 Apertura: 24/07/2026 00:00\n⏰ Cierre: 24/07/2026 23:50\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260725T045000Z
+DTSTART:20260724T050000Z
+SUMMARY:🟢 [8.00 de 10] [CÁLCULO DIFERENCIAL] Tarea ACTUACIÓN EN CLASE\, DERIVACIÓN DE FUNCIONES PARAMÉTRICAS Sem. 12 PRÁCTICAS EN CLASE Grupal Bloqueada
+UID:6362b397-0ce5-426d-9c45-27f2fbfc64c0@6362.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Consultar una empresa tecnologica que haya desaparecido por falta de innovación Sem. 2 TALLERES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 11/05/2026 00:00\n⏰ Cierre: 17/05/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260518T045900Z
+DTSTART:20260511T050000Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Consultar una empresa tecnologica que haya desaparecido por falta de innovación Sem. 2 TALLERES Individual Bloqueada
+UID:00b0c527-04fc-41b9-a081-d5418731ae95@00b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF-ASSESSMENT UNIT 6 Sem. 12 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 27/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260728T045900Z
+DTSTART:20260720T050000Z
+SUMMARY:🟢 [9.00 de 10] [INGLES II] Cuestionario SELF-ASSESSMENT UNIT 6 Sem. 12 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:a6fc4e42-1b0a-4055-8c93-d184f7c7cb98@a6fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea TALLER 3 Sem. 3 TALLERES Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 21/05/2026 17:19\n⏰ Cierre: 21/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260522T040000Z
+DTSTART:20260521T221900Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea TALLER 3 Sem. 3 TALLERES Individual Bloqueada Formativa (Autoevaluación)
+UID:ff4060e0-52f3-4357-b37b-3c424165e43a@ff40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseñar un personaje Sem. 2 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 13/05/2026 21:00\n⏰ Cierre: 19/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260520T040000Z
+DTSTART:20260514T020000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseñar un personaje Sem. 2 TAREAS Individual Bloqueada
+UID:6946e5bf-872a-4c5e-aa37-b726c6bb31b4@6946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea EVALUACION REFUERZO Sem. 12 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 24/07/2026 12:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260724T170000Z
+DTSTART:20260720T050000Z
+SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea EVALUACION REFUERZO Sem. 12 TAREAS Individual Bloqueada
+UID:e9162242-e486-4377-8978-a87f47b90e8b@e916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Resumen videos Sem. 11 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 17/07/2026 21:00\n⏰ Cierre: 24/07/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260725T000000Z
+DTSTART:20260718T020000Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Resumen videos Sem. 11 TAREAS Individual Bloqueada
+UID:0b00682c-5235-4583-9ab4-b39647cebada@0b00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Individual Bloqueada Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 04/05/2026 00:00\n⏰ Cierre: 10/05/2026 23:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260511T043000Z
+DTSTART:20260504T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN DE DIAGNÓSTICO Sem. 1 LECCIONES FRECUENTES Individual Bloqueada Diagnóstico
+UID:221e72e1-41fb-44e3-be2d-94457b15e001@221e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN DIAGRAMAS - FORMATIVA Sem. 7 LECCIONES FRECUENTES Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 21/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260622T045900Z
+DTSTART:20260615T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN DIAGRAMAS - FORMATIVA Sem. 7 LECCIONES FRECUENTES Individual Bloqueada Formativa (Autoevaluación)
+UID:0f91e40c-925d-45d1-a92a-adeba09d4834@0f91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Estructuras Secuenciales\, Selectivas y Repetitivas Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 31/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260801T045900Z
+DTSTART:20260727T050000Z
+SUMMARY:🟢 [10.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Estructuras Secuenciales\, Selectivas y Repetitivas Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:6201bccc-f12b-4b28-bbf8-dc5bcf5cca0d@6201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea Evaluación y Diagnóstico del Entorno Tecnológico (ET) Sem. 16 TAREAS Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260824T045900Z
+DTSTART:20260817T050000Z
+SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea Evaluación y Diagnóstico del Entorno Tecnológico (ET) Sem. 16 TAREAS Individual Bloqueada Formativa (Autoevaluación)
+UID:fbe03b5e-45f4-4119-807e-3707f4f03a98@fbe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: POR EVALUAR\n🚀 Apertura: 15/06/2026 00:00\n⏰ Cierre: 21/06/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260621T050000Z
+DTSTART:20260615T050000Z
+SUMMARY:🟡 [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 02 Sem. 7 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:fc11f506-9131-4930-9f9f-179609d5ed7d@fc11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 6 Semana 16 Sem. 16 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 17/08/2026 00:00\n⏰ Cierre: 23/08/2026 23:50\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260824T045000Z
+DTSTART:20260817T050000Z
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 6 Semana 16 Sem. 16 PROYECTOS Individual Bloqueada
+UID:2ea65fb4-5a03-4b93-a25a-2a3d50ec9a0a@2ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260920T230000Z
+DTSTART:20260920T230000Z
+SUMMARY:🔴 [ALGORITMOS Y PSEUDOCÓDIGOS] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:4d0c7a2a-c201-4546-b898-061c7f57ced3@4d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea EVALUACIÓN SUMATIVA PARTE PRÁCTICA Sem. 14 LECCIONES FRECUENTES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 07/08/2026 21:10\n⏰ Cierre: 07/08/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260808T033000Z
+DTSTART:20260808T021000Z
+SUMMARY:🟢 [9.00 de 10] [CÁLCULO DIFERENCIAL] Tarea EVALUACIÓN SUMATIVA PARTE PRÁCTICA Sem. 14 LECCIONES FRECUENTES Individual Bloqueada
+UID:8e51e8dd-2035-488f-998c-e3a9c49c9065@8e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Investigación exploratoria del método científico Sem. 11 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 15/07/2026 22:00\n⏰ Cierre: 21/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260722T040000Z
+DTSTART:20260716T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Investigación exploratoria del método científico Sem. 11 TAREAS Individual Bloqueada
+UID:7a20a223-6aee-423c-9531-2c47917e25d1@7a20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 13/09/2026 00:00\n⏰ Cierre: 13/09/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260914T030000Z
+DTSTART:20260913T050000Z
+SUMMARY:🔴 [INGLES II] Tarea EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final) Individual
+UID:a7116b3c-c8b4-4bf2-b6f1-5df62a7aaef0@a711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea Herramientas Digitales para Diagramas Sem. 10 TAREAS Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 06/07/2026 00:00\n⏰ Cierre: 10/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260711T045900Z
+DTSTART:20260706T050000Z
+SUMMARY:🟢 [9.00 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea Herramientas Digitales para Diagramas Sem. 10 TAREAS Grupal Bloqueada
+UID:3a654f8e-cc7c-4f34-b816-2359983f1f04@3a65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 13/09/2026 18:00\n⏰ Cierre: 13/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260913T230000Z
+DTSTART:20260913T230000Z
+SUMMARY:🔴 [CÁLCULO DIFERENCIAL] Cuestionario EXAMEN FINAL Sem. 19 EXAMEN FINAL (Examen Final)
+UID:6d268368-6068-4ba1-8248-68515a43a3c4@6d26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario ASSESSMENT UNITS 3-4 Sem. 9 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 29/06/2026 00:00\n⏰ Cierre: 04/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260705T045900Z
+DTSTART:20260629T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario ASSESSMENT UNITS 3-4 Sem. 9 LECCIÓN PARCIAL Bloqueado
+UID:11d9d03f-d0f6-49e4-a966-a8ef29ac1426@11d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Integración de Word y Mendeley Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 17/06/2026 23:00\n⏰ Cierre: 21/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260622T040000Z
+DTSTART:20260618T040000Z
+SUMMARY:🟢 [9.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Integración de Word y Mendeley Sem. 7 PRÁCTICA EXPERIMENTAL Individual Bloqueada
+UID:386d8389-5fa3-465e-bef6-4ceeaed559af@386d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario ASSESSMENT UNITS 1-2 Sem. 4 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 13/06/2026 09:35\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260615T045900Z
+DTSTART:20260613T143500Z
+SUMMARY:🟢 [9.50 de 10] [INGLES II] Cuestionario ASSESSMENT UNITS 1-2 Sem. 4 LECCIONES FRECUENTES Bloqueado
+UID:2828c073-deef-4412-a6f5-96d8b227eb2e@2828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SUMMATIVE ASSESSMENT UNITS 7 - 8 Sem. 17 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 24/08/2026 00:00\n⏰ Cierre: 29/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260830T045900Z
+DTSTART:20260824T050000Z
+SUMMARY:🟢 [9.50 de 10] [INGLES II] Cuestionario SUMMATIVE ASSESSMENT UNITS 7 - 8 Sem. 17 LECCIÓN PARCIAL Bloqueado
+UID:ea25b744-b879-4de6-96ab-76c6e1e43d0f@ea25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EVALUACIÓN 01 Sem. 5 LECCIONES FRECUENTES Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 04/06/2026 19:30\n⏰ Cierre: 04/06/2026 20:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260605T013000Z
+DTSTART:20260605T003000Z
+SUMMARY:🟢 [10.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EVALUACIÓN 01 Sem. 5 LECCIONES FRECUENTES Bloqueado
+UID:2de43419-1137-454b-a8e9-666aae01fa58@2de4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario SELF- ASSESSMENT: UNIT 5 Sem. 10 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 06/07/2026 00:00\n⏰ Cierre: 12/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260713T045900Z
+DTSTART:20260706T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Cuestionario SELF- ASSESSMENT: UNIT 5 Sem. 10 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:4a01cd8a-b75a-4b7b-96d7-87b201e2785e@4a01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Cuestionario EVA DIAG Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 6.00 de 10\n🚀 Apertura: 08/05/2026 20:40\n⏰ Cierre: 08/05/2026 22:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260509T033000Z
+DTSTART:20260509T014000Z
+SUMMARY:🟢 [6.00 de 10] [CÁLCULO DIFERENCIAL] Cuestionario EVA DIAG Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:7cb70d8d-7a5f-461c-90d8-215cff00a399@7cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ALGORITMOS Y PSEUDOCÓDIGOS\n📝 Tarea/Evaluación: Tarea EVALUACIÓN CORTE I Sem. 9 LECCIÓN PARCIAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.01 de 10\n🚀 Apertura: 29/06/2026 20:00\n⏰ Cierre: 29/06/2026 21:30\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLL
+DTEND:20260630T023000Z
+DTSTART:20260630T010000Z
+SUMMARY:🟢 [7.01 de 10] [ALGORITMOS Y PSEUDOCÓDIGOS] Tarea EVALUACIÓN CORTE I Sem. 9 LECCIÓN PARCIAL Individual Bloqueada
+UID:2855bf55-d9ac-4ff3-a4c5-a75cf1598f6d@2855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 18:00\n⏰ Cierre: 20/09/2026 18:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260920T230000Z
+DTSTART:20260920T230000Z
+SUMMARY:🔴 [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Cuestionario EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso)
+UID:83aa68ac-21d9-4f53-a44d-374729bd0e46@83aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÓN PARCIAL C2 Sem. 17 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 8.95 de 10\n🚀 Apertura: 25/08/2026 20:15\n⏰ Cierre: 25/08/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260826T040000Z
+DTSTART:20260826T011500Z
+SUMMARY:🟢 [8.95 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÓN PARCIAL C2 Sem. 17 LECCIÓN PARCIAL Bloqueado
+UID:bafccdba-5ef2-4830-9397-e6b64b91490b@bafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Técnicas de lecturas Sem. 3 PRÁCTICA EXPERIMENTAL Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/05/2026 22:00\n⏰ Cierre: 26/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260527T040000Z
+DTSTART:20260521T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Técnicas de lecturas Sem. 3 PRÁCTICA EXPERIMENTAL Individual Bloqueada
+UID:5a0b67bd-77d0-403c-aab8-412d313022d6@5a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO\n📝 Tarea/Evaluación: Tarea TALLER 2 Sem. 2 TALLERES Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 14/05/2026 00:00\n⏰ Cierre: 14/05/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSOLM
+DTEND:20260515T040000Z
+DTSTART:20260514T050000Z
+SUMMARY:🟢 [9.00 de 10] [ORGANIZACIÓN (I+D) Y ENTORNO TECNOLÓGICO] Tarea TALLER 2 Sem. 2 TALLERES Individual Bloqueada Formativa (Autoevaluación)
+UID:cb7f9a6a-8414-492a-90b5-57e3ecd06b9f@cb7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario UNIT 2 SELF ASSESSMENT Sem. 3 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.00 de 10\n🚀 Apertura: 18/05/2026 00:00\n⏰ Cierre: 28/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260629T045900Z
+DTSTART:20260518T050000Z
+SUMMARY:🟢 [7.00 de 10] [INGLES II] Cuestionario UNIT 2 SELF ASSESSMENT Sem. 3 LECCIONES FRECUENTES Bloqueado Formativa (Autoevaluación)
+UID:ee63ad36-8cc5-4503-916e-dd5671ac37c8@ee63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual\n🏷️ Estado: PENDIENTE / SIN ENTREGAR\n🚀 Apertura: 20/09/2026 00:00\n⏰ Cierre: 20/09/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260921T030000Z
+DTSTART:20260920T050000Z
+SUMMARY:🔴 [INGLES II] Tarea EXAMEN SUSPENSO Sem. 20 EXAMEN SUSPENSO (Examen Suspenso) Individual
+UID:42f44950-0fd2-44dc-ab7c-0754883546b5@42f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea Derivadas de funciones por definición Sem. 6 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 08/06/2026 00:00\n⏰ Cierre: 14/06/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260615T030000Z
+DTSTART:20260608T050000Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea Derivadas de funciones por definición Sem. 6 TAREAS Individual Bloqueada
+UID:57387e2d-d857-401f-aa15-6ab14a3e2413@5738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Formas de conocimiento Sem. 10 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 08/07/2026 22:00\n⏰ Cierre: 14/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260715T040000Z
+DTSTART:20260709T030000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Formas de conocimiento Sem. 10 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
+UID:a1f7f3fc-4954-48b5-8af4-7e89dfded7a7@a1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea PRACTICA UNIDAD 3 Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.80 de 10\n🚀 Apertura: 27/07/2026 00:00\n⏰ Cierre: 02/08/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260802T050000Z
+DTSTART:20260727T050000Z
+SUMMARY:🟢 [9.80 de 10] [CÁLCULO DIFERENCIAL] Tarea PRACTICA UNIDAD 3 Sem. 13 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:501e6bf9-276f-4f62-b530-d60ee80e06ec@501e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea PROJECT: MY LAST TRIP Sem. 15 PROYECTOS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 7.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260817T045900Z
+DTSTART:20260810T050000Z
+SUMMARY:🟢 [7.00 de 10] [INGLES II] Tarea PROJECT: MY LAST TRIP Sem. 15 PROYECTOS Individual Bloqueada
+UID:c385e5d9-4b99-4efc-a1a5-e989c6de0626@c385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Taller 6 Semana 12 Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.50 de 10\n🚀 Apertura: 21/07/2026 20:00\n⏰ Cierre: 26/07/2026 00:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260726T050000Z
+DTSTART:20260722T010000Z
+SUMMARY:🟢 [9.50 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Taller 6 Semana 12 Sem. 12 PRÁCTICA EXPERIMENTAL Grupal Bloqueada
+UID:d4a00827-bb0b-4a28-bcab-cd89b08b3461@d4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Cuestionario LECCIÒN PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Bloqueado\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.25 de 10\n🚀 Apertura: 30/06/2026 19:45\n⏰ Cierre: 30/06/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260701T040000Z
+DTSTART:20260701T004500Z
+SUMMARY:🟢 [9.25 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Cuestionario LECCIÒN PARCIAL C1 Sem. 9 LECCIÓN PARCIAL Bloqueado
+UID:fe80a6e2-8584-47fb-81cc-16b838b5ad06@fe80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN\n📝 Tarea/Evaluación: Tarea Diseño de investigaciòn Sem. 14 TALLERES Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 06/08/2026 09:00\n⏰ Cierre: 11/08/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUT
+DTEND:20260812T040000Z
+DTSTART:20260806T140000Z
+SUMMARY:🟢 [10.00 de 10] [REDACCIÓN Y FUNDAMENTOS DE LA INVESTIGACIÓN] Tarea Diseño de investigaciòn Sem. 14 TALLERES Individual Bloqueada
+UID:bdeb5f9b-5cc8-4d6c-a53f-d9b3a4bdcd4f@bdeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Tarea SIMPLE PAST WORKSHOP Sem. 12 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 20/07/2026 00:00\n⏰ Cierre: 27/07/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260728T045900Z
+DTSTART:20260720T050000Z
+SUMMARY:🟢 [10.00 de 10] [INGLES II] Tarea SIMPLE PAST WORKSHOP Sem. 12 TAREAS Individual Bloqueada
+UID:1760a374-f020-440e-9e8f-cbd3ef172f90@1760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 4 Semana 11 Sem. 11 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.60 de 10\n🚀 Apertura: 14/07/2026 22:00\n⏰ Cierre: 28/07/2026 23:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260729T040000Z
+DTSTART:20260715T030000Z
+SUMMARY:🟢 [9.60 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 4 Semana 11 Sem. 11 TAREAS Individual Bloqueada
+UID:06173b93-1494-474f-a942-fcf44df5e08f@0617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: INGLES II\n📝 Tarea/Evaluación: Cuestionario DIAGNOSTIC TEST Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 5.45 de 10\n🚀 Apertura: 09/06/2026 08:00\n⏰ Cierre: 14/06/2026 23:59\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSLLULU
+DTEND:20260615T045900Z
+DTSTART:20260609T130000Z
+SUMMARY:🟢 [5.45 de 10] [INGLES II] Cuestionario DIAGNOSTIC TEST Sem. 1 LECCIONES FRECUENTES Bloqueado Diagnóstico
+UID:51975847-a848-4b52-950b-011e5de5d1dd@5197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Comentario sobre la asignatura Sem. 17 PRÁCTICAS FUERA DE CLASE Individual Bloqueada Formativa (Autoevaluación)\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.00 de 10\n🚀 Apertura: 24/08/2026 11:00\n⏰ Cierre: 28/08/2026 17:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
+DTEND:20260828T220000Z
+DTSTART:20260824T160000Z
+SUMMARY:🟢 [9.00 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Comentario sobre la asignatura Sem. 17 PRÁCTICAS FUERA DE CLASE Individual Bloqueada Formativa (Autoevaluación)
+UID:fca1b700-c2c8-4438-816d-7a911e0a0401@fca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📌 Materia: CÁLCULO DIFERENCIAL\n📝 Tarea/Evaluación: Tarea EJERCICIOS APLICACIONES DE LA DERIVADA Sem. 15 TAREAS Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 10.00 de 10\n🚀 Apertura: 10/08/2026 00:00\n⏰ Cierre: 16/08/2026 22:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUS
+DTEND:20260817T030000Z
+DTSTART:20260810T050000Z
+SUMMARY:🟢 [10.00 de 10] [CÁLCULO DIFERENCIAL] Tarea EJERCICIOS APLICACIONES DE LA DERIVADA Sem. 15 TAREAS Individual Bloqueada
+UID:37b9665b-2921-43be-bd4b-f64bc6061a55@37b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:📌 Materia: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS\n📝 Tarea/Evaluación: Tarea Actividad 3 Semana 5 Sem. 5 PRÁCTICAS FUERA DE CLASE Individual Bloqueada\n🏷️ Estado: COMPLETADO / EVALUADO\n📊 Nota: 9.30 de 10\n🚀 Apertura: 02/06/2026 21:00\n⏰ Cierre: 09/06/2026 19:00\n🔗 Enlace SGA: https://sga.uteq.edu.ec/alu_documentos?action=actividades_materia&id=OOPPPQQQRRRSSPSNSNUU
 DTEND:20260610T000000Z
 DTSTART:20260603T020000Z
 SUMMARY:🟢 [9.30 de 10] [FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS] Tarea Actividad 3 Semana 5 Sem. 5 PRÁCTICAS FUERA DE CLASE Individual Bloqueada
-UID:9961a3df-86d7-4e3b-837d-6fb01c5d814d@9961.org
+UID:62a02768-4450-4752-ac1f-7bfe88229ec1@62a0.org
 END:VEVENT
 END:VCALENDAR
