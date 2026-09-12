@@ -152,25 +152,25 @@ def limpiar_titulo_tarea(texto):
     return resultado if len(resultado) > 2 else "Evaluación / Tarea"
 
 def determinar_estado_emoji(texto_lower):
-    """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
+    """Asigna icono y etiqueta según el estado de la tarea en el SGA con jerarquía estricta."""
     
-    # 1. Tareas entregadas a la espera de calificación / revisión (Naranja/Amarillo)
-    palabras_enviado = ["enviado", "enviada"]
-    if any(st in texto_lower for st in palabras_enviado):
-        return "🟡", "ENVIADO / POR CALIFICAR"
-        
-    # 2. Tareas pendientes de entrega (Rojo)
-    palabras_pendiente = ["sin entregar", "pendiente", "próximamente", "proximamente", "abierta", "por evaluar"]
-    if any(st in texto_lower for st in palabras_pendiente):
-        return "🔴", "SIN ENTREGAR / POR EVALUAR"
-        
-    # 3. Tareas completadas o evaluadas (Verde)
+    # 1. MÁXIMA PRIORIDAD: Tareas completadas o evaluadas (Verde)
     palabras_completado = [
-        "calificado", "calificada", "evaluado", "evaluada",
-        "finalizado", "finalizada", "cumplidas", "cumplida","Evaluada"
+        "calificado", "calificada", "evaluado", "evaluada","Evaluada", 
+        "finalizado", "finalizada", "cumplidas", "cumplida"
     ]
     if any(st in texto_lower for st in palabras_completado):
         return "🟢", "COMPLETADO / EVALUADO"
+        
+    # 2. SEGUNDA PRIORIDAD: Tareas enviadas a la espera de revisión/calificación (Naranja)
+    palabras_enviado = ["enviado", "enviada", "por evaluar"]
+    if any(st in texto_lower for st in palabras_enviado):
+        return "🟡", "ENVIADO / POR EVALUAR"
+        
+    # 3. TERCERA PRIORIDAD: Tareas pendientes de entrega (Rojo)
+    palabras_pendiente = ["sin entregar", "pendiente", "próximamente", "proximamente", "abierta"]
+    if any(st in texto_lower for st in palabras_pendiente):
+        return "🔴", "PENDIENTE / SIN ENTREGAR"
         
     else:
         return "⚪", "INFORMACIÓN / SIN ESTATUS"
