@@ -155,14 +155,14 @@ def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
     
     # 1. Tareas entregadas a la espera de calificación / revisión (Naranja/Amarillo)
-    palabras_enviado = ["enviado", "enviada", "por evaluar"]
+    palabras_enviado = ["enviado", "enviada"]
     if any(st in texto_lower for st in palabras_enviado):
-        return "🟡", "ENVIADO / POR EVALUAR"
+        return "🟡", "ENVIADO"
         
     # 2. Tareas pendientes de entrega (Rojo)
-    palabras_pendiente = ["sin entregar", "pendiente", "próximamente", "proximamente", "abierta"]
+    palabras_pendiente = ["sin entregar", "pendiente", "próximamente", "proximamente", "abierta", "por evaluar"]
     if any(st in texto_lower for st in palabras_pendiente):
-        return "🔴", "PENDIENTE / SIN ENTREGAR"
+        return "🔴", "SIN ENTREGAR / POR EVALUAR"
         
     # 3. Tareas completadas o evaluadas (Verde)
     palabras_completado = [
