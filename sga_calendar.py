@@ -153,11 +153,11 @@ def limpiar_titulo_tarea(texto):
 
 def determinar_estado_emoji(texto_lower):
     """Asigna icono y etiqueta según el estado de la tarea en el SGA."""
-    palabras_pendiente = ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente"]
+    palabras_pendiente = ["sin entregar", "pendiente", "abierta", "próximamente", "proximamente","por evaluar"]
     if any(st in texto_lower for st in palabras_pendiente):
         return "🔴", "PENDIENTE / SIN ENTREGAR"
-    elif "por evaluar" in texto_lower:
-        return "🟡", "POR EVALUAR"
+    elif "Enviado" in texto_lower:
+        return "🟡", "ENVIADO"
     elif any(st in texto_lower for st in ["calificado", "calificada", "evaluado", "evaluada", "finalizado", "finalizada", "cumplidas", "cumplida"]):
         return "🟢", "COMPLETADO / EVALUADO"
     else:
