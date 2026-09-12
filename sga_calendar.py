@@ -166,8 +166,8 @@ def determinar_estado_emoji(texto_lower):
         
     # 3. Tareas completadas o evaluadas (Verde)
     palabras_completado = [
-        "calificado", "calificada", "evaluado", "evaluada", 
-        "finalizado", "finalizada", "cumplidas", "cumplida"
+        "calificado", "calificada", "evaluado", "evaluada",
+        "finalizado", "finalizada", "cumplidas", "cumplida","Evaluada"
     ]
     if any(st in texto_lower for st in palabras_completado):
         return "🟢", "COMPLETADO / EVALUADO"
