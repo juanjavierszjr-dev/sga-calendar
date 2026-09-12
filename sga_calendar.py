@@ -165,7 +165,7 @@ def determinar_estado_emoji(texto_lower):
     # 2. SEGUNDA PRIORIDAD: Tareas enviadas a la espera de revisión/calificación (Naranja)
     palabras_enviado = ["enviado", "enviada"]
     if any(st in texto_lower for st in palabras_enviado):
-        return "🟡", "ENVIADO / POR EVALUAR"
+        return "🟡", "ENVIADO / POR CALIFICAR"
         
     # 3. TERCERA PRIORIDAD: Tareas pendientes de entrega (Rojo)
     palabras_pendiente = ["sin entregar", "pendiente", "próximamente", "proximamente", "abierta","por evaluar"]
